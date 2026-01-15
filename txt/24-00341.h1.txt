@@ -1,0 +1,898 @@
+ 
+ 
+ 
+                                                              
+                         
+          
+           
+             
+ 
+ 
+    
+  
+       
+  
+  
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+       
+   
+ 
+ 
+          
+        
+            
+       
+           
+         
+               
+      
+      
+            
+        
+     
+ 
+______________ 
+______________ 
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+In the matter of: ) 
+) 
+) ISCR Case No. 24-00341 
+) 
+Applicant for Security Clearance ) 
+Appearances 
+For Government: Cynthia Ruckno, Esq., Department Counsel 
+For Applicant: Pro se 
+02/10/2025 
+Decision 
+DORSEY, Benjamin R., Administrative Judge: 
+Applicant did not mitigate the foreign influence security concerns presented by 
+his contacts with Russia. Eligibility for access to classified information is denied. 
+Statement  of the Case  
+On April 1, 20 24, the Department of Defense (DOD) issued a Statement of 
+Reasons (SOR) to Applicant detailing security concerns under Guideline B, foreign 
+influence. Applicant responded to the SOR on April 17, 2024 (Answer) and requested a 
+hearing before an administrative judge with the Defense Office of Hearings and Appeals 
+(DOHA). The case was assigned to me on December 5, 2024. Prior to the scheduling of 
+the hearing, Applicant requested that his hearing be conducted in-person in State A as 
+opposed to a virtual hearing. Noting the cost and time saving benefits , and that a video 
+teleconference over the Microsoft Teams network is approved by DOHA for due 
+process purposes, I denied his request. After consulting the parties concerning a 
+hearing date, I scheduled the hearing for January 16, 2025. The hearing was convened 
+as scheduled via the Microsoft Teams video teleconference platform . I received a 
+transcript (Tr.) of the hearing on January 23, 2025. 
+1 
+ 
+ 
+ 
+ 
+ 
+       
+       
+          
+      
+              
+         
+            
+       
+   
+ 
+  
+      
+       
+    
+         
+      
+               
+             
+          
+  
+ 
+         
+          
+         
+        
+         
+         
+       
+        
+ 
+ 
+        
+     
+          
+  
+        
+      
+ 
+      
+        
+      
+      
+       
+  
+Evidence 
+I admitted Government Exhibits (GE) 1 through 3 in evidence without objection. 
+Applicant testified and submitted Applicant Exhibits (AE) A through G, which I admitted 
+as evidence without objection . I marked as Hearing Exhibit (HE ) I, the Government’s 
+request that I take administrative notice of certain information about the Russian 
+Federation (Russia) that was attached to its request. I marked as HE II, the May 28, 
+2024 letter from the Government to Applicant disclosing its proposed evidence. At 
+Applicant’s request and without objection, I left the record open for the parties to provide 
+post-hearing documentation. Applicant timely provided AE H through J, which I admitted 
+without objection. The record closed on January 23, 2025. 
+Administrative Notice  
+HE I is Government’s motion that I take administrative notice of certain facts 
+about the country conditions in Russia, as well as its relationship with the United States 
+as of May 28, 2024, as referenced in official U.S. Government documents. 
+Administrative or official notice is the appropriate type of notice used for administrative 
+proceedings. See ISCR Case No. 16-02522 at 2-3 (App. Bd. July 12, 2017); ISCR Case 
+No. 05-11292 at 4 n. 1 (App. Bd. Apr. 12, 2007); ISCR Case No. 02 -24875 at 2 (App. 
+Bd. Oct. 12, 2006) (citing ISCR Case No. 02 -18668 at 3 (App. Bd. Feb. 10, 2004) and 
+McLeod v. Immigration and Naturalization Service, 802 F.2d 89, 93 n. 4 (3d Cir. 1986)). 
+Without objection, I take administrative notice of the facts contained therein. 
+The facts are summarized in the written request , so I will not repeat them 
+verbatim in this decision. I will provide a brief overview, as follows. The Office of the 
+Director of National Intelligence reported that Russia presents one of the most serious 
+foreign influence threats to the United States, using its intelligence services, proxies, 
+and wide -ranging influence tools to try to divide Western alliances, and increase its 
+sway around the world, while attempting to undermine U.S. global standing, amplify 
+discord inside the United States, and influence U.S. voters and decision -making. Russia 
+aggressively uses its intelligence services to coll ect sensitive U.S. information to further 
+these goals. 
+While its government professes to be a federal republic, in reality, i t has an 
+authoritarian form of government largely controlled by Vladimir Putin. Its government 
+commits serious and varied human rights abuses against its own citizens , including 
+enforced disappearances, arbitrary or unlawful killings, punishment of family members 
+for alleged offense by a relative, and serious restrictions on freedom of expression. 
+Russia has also been victimized by terrorism. 
+In February 2022, Russia launched a full -scale, unprovoked invasion of Ukraine. 
+This invasion has become the largest conventional military attack on a sovereign state 
+in Europe since World War II. While Russia’s act of aggression has received 
+international condemnation, and many countries , including the United States, have 
+imposed sanctions on it, as of the date of this writing, it persists with its unlawful 
+invasion. 
+2 
+ 
+ 
+ 
+ 
+ 
+        
+           
+         
+          
+      
+           
+      
+ 
+ 
+       
+         
+    
+           
+             
+      
+            
+          
+        
+Russian  security services have  arrested  U.S. citizens  on  spurious charges,  
+denied  them  fair  and  transparent treatment,  and  have  convicted  them  in secret trials  
+without  presenting  evidence. Russian  officials may  unreasonably  delay U.S. consular  
+assistance  to  detained  U.S. citizens. Russian  authorities arbitrarily enforce local laws 
+against U.S. citizen  religious workers and  open  questionable criminal investigations  
+against such  individuals. Russian  security services are increasingly  arbitrarily enforcing  
+local laws targeting  foreign  and  international organizations they consider “undesirable,”   
+and  U.S. citizens should avoid travel to  Russia to  perform  work for or volunteer with  
+non-governmental organizations.  Russia  may refuse  to  acknowledge  dual nationals'  
+U.S. citizenship, deny their  access to  U.S. consular assistance, prevent their  departure  
+from Russia, and conscript dual nationals for military service. (HE I; AE  G)  
+Findings of Fact  
+Applicant is a 62-year-old U.S. citizen who co -owns a government contractor 
+(Firm A) for which he has worked since 2007 . He earned a bachelor’s degree in 1990. 
+He was married in 1989 and divorced in 2014. He remains unmarried, but since about 
+April or May 2021, he has cohabitated with a dual citizen of Russia and the United 
+States (SOR ¶ 1.a). I will hereinafter refer to Applicant’s cohabitant as “Ms. B.” Applicant 
+has three adult children who are U.S. citizens and residents . He has held a security 
+clearance since 1991. (Tr. 50, 75-77; Answer; GE 1-3; AE A, B, D, E, F) 
+Ms. B was born in Russia and resided there until about  2010, when she moved to  
+the  United  States  to  find  a  better life. She  has been  a  U.S. resident since  2010  and  
+became  a  naturalized  U.S. citizen  in  2018.  Ms. B’s mother and  brother are  citizens and  
+residents  of  Russia  (SOR ¶  1.c).  Her mother  is about 84  years old.  Ms. B  holds  a  valid  
+U.S. passport  that she  obtained  in January 2019. She  also holds a  valid  Russian  
+passport (SOR ¶  1.b).  Her Russian  passport does not expire  until 2028. Applicant does  
+not know whether she  plans to  renew it.  She  has used  her Russian  passport to  travel to  
+Russia  in  2015,  2021, and  2022  to  visit her mother and  brother.  Each  of  these  visits to  
+Russia  lasted  approximately  three  weeks.  She  has an  ownership  interest  in  two  
+apartments in  Russia  that she  purchased  before becoming  a  U.S. citizen.  One  
+apartment,  in which  her mother resides,  is valued  at  about $40,000  (SOR ¶  1.d). The  
+other apartment is one  she  co-owns  with  her son  that is valued  at about  $110,000  (SOR  
+¶  1.e).  Her son  is a  Russian  citizen  residing  in Thailand.  (Tr.  37, 43-45,  55-67,  74-75, 
+77-81,  84-87, 101; Answer; GE 2, 3; AE  A, B, D, E, F)  
+Ms. B is close with her mother. She speaks to her mother at least every other 
+day. Her mother receives a pension from the Russian government , and Ms. B has sent 
+her money over the years, but not after the U.S. imposed sanctions against Russia. 
+Prior to Ms. B meeting Applicant, her mother visited her in the United States on two 
+occasions. Ms. B’s mother has been retired for over 25 years. She was an executive 
+assistant. Applicant does not believe that she worked for the Russian government, but 
+he is not sure. Applicant has met Ms. B’s mother once when the three met in Italy. 
+There is a language barrier, so their conversations were limited. He reported this foreign 
+travel and his foreign contact with Ms. B’s mother to his facility security officer (FSO) 
+3 
+ 
+ 
+ 
+          
+ 
+ 
+         
+         
+        
+        
+            
+     
+        
+        
+    
+ 
+         
+      
+         
+            
+         
+         
+            
+       
+          
+           
+          
+    
+     
+  
+ 
+         
+              
+         
+      
+          
+              
+           
+       
+         
+    
+         
+    
+ 
+         
+          
+          
+           
+          
+           
+and the FSO for whom his company subcontracts. (Tr. 55-67, 79, 81 -84, 86, 96; 
+Answer; GE 2, 3; AE D) 
+Applicant has never met Ms. B’s brother in person, but he waved to him over a 
+video call. He has never met Ms. B’s son, but Ms. B has traveled to Thailand twice to 
+visit him in the last four years , using her U.S. passport. Applicant does not believe that 
+Ms. B’s son has any plans to move back to Russia, and he has a disability that prevents 
+him from being conscripted in the Russian Army. Ms. B consistently uses her U.S. 
+passport for international travel unless she is visiting her family in Russia. She has not 
+visited her family in Russia since Russia invaded Ukraine in February 2022 . She does 
+not plan to visit Russia again until the war ends, but she may go back if her mother’s 
+health fails. (Tr. 55-67, 79, 81-84, 86, 96, 101-102; Answer; GE 2, 3; AE D) 
+When Ms. B moved to the United States, her brother did not speak to her for 
+three years. Applicant believes that her brother was angry with Ms. B because he would 
+have to take care of their mother in her declining years. He also believes that her 
+brother may have been angry because he disapproves of the United States. Ms. B’s 
+brother is a sporting goods salesman that is not affiliated with the Russian government. 
+Applicant believes that he owns his apartment in Russia, but that he does not receive a 
+pension from the Russian government. He served two year s of compulsory Russian 
+military service about 30 years ago. Applicant does not believe that Ms. B’s brother is 
+subject to conscription because he is about 50 years old. Applicant testified that Ms. B 
+and her brother have reconciled, and she speaks to him over a video call approximately 
+two to five times per year. Her brother has a wife and two daughters who are also 
+Russian citizens and residents. Applicant does not believe that any of Ms. B’s family 
+members know that he works for a government contractor . (Tr. 55-56, 84-87, 102-104; 
+Answer; GE 2, 3; AE D) 
+Applicant first met Ms. B in November 2020. It is unclear from the record when 
+he realized that Ms. B is a Russian citizen, but he became aware that she held a valid 
+Russian passport in about June 2021, around one of the times Ms. B visited her mother 
+in Russia. Beginning in about June or July 2021, h e voluntarily divulged to his FSO 
+information about Ms. B’s ties to both Russia and the United States. He averred that 
+Ms. B has been open and honest with him when he requested information that he was 
+required to report. He has been forthcoming with his employer and with the U.S. 
+Government regarding his relationship with Ms. B , her Russian family members, and 
+her ties to Russia. Applicant has told Ms. B that i f anything should come up that 
+threatens the safety or wellbeing of her family members in Russia, he cannot do 
+anything to help them, but he would go straight to the FBI. (Tr. 55-67, 74-75, 77-81, 83, 
+87; Answer; GE 2, 3; AE B-D, F) 
+Applicant testified that he has not spoken to Ms. B about selling her Russian 
+apartments because it is not his place to do so. However, he opined that Ms. B does not 
+want to sell her apartments in Russia for several reasons. One reason is that it would 
+deprive her mother of a place to live. Another reason is that she co -owns the other 
+apartment with her son, so she could not sell it without his agreement. A third reason is 
+that Ms. B gave one of her ex -husbands, a Russian citizen who resides in Russia, a 
+4 
+ 
+ 
+ 
+     
+         
+        
+     
+            
+   
+ 
+         
+             
+          
+       
+          
+    
+ 
+       
+        
+        
+         
+          
+          
+        
+          
+       
+              
+       
+       
+ 
+      
+          
+       
+            
+        
+         
+    
+   
+ 
+          
+          
+        
+          
+           
+         
+          
+         
+           
+      
+ 
+power of attorney (POA) that gave him complete control over her financial affairs in 
+Russia, including her two apartments. The document evidencing the POA is not in 
+evidence, but Applicant testified that she executed the POA in mid -2024. He has not 
+seen the POA and does not know whether it is revocable or irrevocable. Finally, he 
+opined that Ms. B could not sell the apartments because she does not have a Russian 
+bank account. (Tr. 61-63, 80, 87-88, 90-94; GE 2, 3; AE B, F) 
+Ms. B is currently employed by Firm A . She makes a little under $40,000 per 
+year. She does not own any real property in the United States, but she does own a car 
+here. She has a bank account in the United States and U.S.-based individual retirement 
+accounts (IRA) worth approximately $100,000. She is not a member of any civic 
+organizations in Russia or the United States. She voted in the United States in the last 
+election. (Tr. 94-97, 104; AE C, J) 
+Applicant is a U.S. citizen by birth and has lived in the U.S. his entire life. He 
+owns four pieces of real property in the U.S. tha t he testified have a gross value of just 
+over $1,000,000. He is in the process of selling two of those properties that he testified 
+have a gross value of about $600,000. He also has a one -half inheritance interest (with 
+his brother) in a lien -free family farm that he valued at between $2,500,000 and 
+$3,000,000. He and his brother will be selling that farm soon and will split the proceeds. 
+He has a U.S. -based IRA worth approximately $1,900,000. He holds no foreign assets . 
+He is planning to retire sometime in early 2025. He maintains that he does not have a 
+conflict of interest because of his relationship with Ms. B . I n the event he does, he 
+claims he would resolve it in favor of the United States. He testified that he and Ms. B 
+are both aware that travel to Russia for U.S. citizens is dangerous. He would not travel 
+to Russia. (Tr. 58-60, 97-101; Answer; GE 1-3; AE D, J, F, G) 
+Two of Applicant’s longtime personal and professional acquaintances testified 
+during his case in chief. One of these individuals is the co-owner and FSO for Firm A. 
+This individual filed the incident report with the Defense Information Security Service 
+(DISS) that resulted in the filing of the SOR. The other witness is an employee of the 
+government contractor (Firm B) that subcontracts Firm A. They have known Applicant 
+both before and after he met Ms. B. They have not reviewed the SOR but are generally 
+aware of the Government’s security concerns related to his girlfriend’s dual citizenship , 
+her Russian family, and her valid Russian passport. (Tr. 31-45; GE 3; AE C) 
+Applicant’s FSO testified that he was not aware that Ms. B owned property in 
+Russia but does not know what the bearing of the information is. Both witnesses stated 
+that they have no reason to question Applicant’s or his girlfriend’s conduct, intent, 
+loyalty, or patriotism. They say they have noticed no behavioral changes in him since he 
+met his girlfriend. To their knowledge, he has been open and honest about his 
+relationship with his girlfriend, and he has followed all reporting requirements attendant 
+to cohabitating with someone who holds dual citizenship. They testified that he only has 
+access to classified information when he is at his worksite, and he is supervised in that 
+event. In 2021, Firm B submitted a compelling needs statement on Applicant’s behalf. 
+The witness from Firm B testified that need persists. (Tr. 31-45; AE C) 
+5 
+ 
+ 
+ 
+      
+       
+      
+       
+             
+       
+        
+    
+        
+   
+ 
+ 
+    
+      
+       
+      
+ 
+ 
+     
+        
+       
+         
+   
+ 
+          
+    
+       
+        
+          
+     
+     
+ 
+ 
+      
+    
+    
+ 
+        
+       
+       
+     
+     
+ 
+           
+          
+     
+Applicant also provided four character-reference letters from current and former 
+colleagues and friends , including Firm A’s co-owner and FSO , who also testified . They 
+wrote about Applicant’s loyalty, integrity, and trustworthiness. They also wrote that they 
+believe he is fully capable of handling and protecting classified information, as they 
+have witnessed him do so in the past. Some noted that he voluntarily complied with 
+reporting requirements regarding his dual-citizen girlfriend. Some wrote that it would 
+cause hardship to the interests of the United States if Applicant lost his security 
+clearance. They opined that he should maintain his security clearance. His employer’s 
+FSO wrote that this process is a waste of resources, claiming that Applicant will be 
+retiring in about six months. (Tr. 41-42, 56; AE C) 
+Policies  
+This case is adjudicated under Executive Order (EO) 10865, Safeguarding 
+Classified Information within Industry (February 20, 1960), as amended; DOD Directive 
+5220.6, Defense Industrial Personnel Security Clearance Review Program (January 2, 
+1992), as amended (Directive) ; and the adjudicative guidelines (AG ), which became 
+effective on June 8, 2017. 
+When evaluating an applicant’s suitability for a security clearance , the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are to be used in evaluating an 
+applicant’s eligibility for access to classified information. 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, administrative judges apply the guidelines in 
+conjunction with the factors listed in the adjudicative process. The administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and common sense decision. According 
+to AG ¶ 2(c), the entire process is a conscientious scrutiny of a number o f variables 
+known as the “whole-person concept.” The administrative judge must consider all 
+available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a decision. 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for national security 
+eligibility will be resolved in favor of the national security.” 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is 
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate, 
+or mitigate facts admitted by the applicant or proven by Department Counsel .” The 
+applicant has the ultimate burden of persuasion to obtain a favorable security decision. 
+A person who seeks access to classified information enters into a f iduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off -duty hours. The 
+6 
+ 
+ 
+ 
+             
+     
+       
+         
+     
+ 
+ 
+          
+               
+       
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+     
+ 
+ 
+ 
+       
+     
+  
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. 
+Section 7 of EO 10865 provides that adverse decisions shall be “in terms of the 
+national interest and shall in no sense be a determination as to the loyalty of the 
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information). 
+Analysis  
+Guideline B, Foreign Influence  
+The security concern for foreign influence is set out in AG ¶ 6: 
+Foreign  contacts and  interests,  including, but not limited  to,  business,
+financial,  and  property interests, are  a  national security concern  if they
+result in divided  allegiance.  They  may also  be  a  national security concern
+if they create  circumstances in which  the  individual may  be manipulated or
+induced  to  help a  foreign  person, group, organization, or government in a
+way  inconsistent with  U.S. interests or otherwise made  vulnerable to
+pressure or coercion  by any  foreign  interest. Assessment  of foreign
+contacts and  interests  should consider the  country  in  which  the  foreign
+contact or interest  is located, including, but not limited  to, considerations
+such  as whether it is known to  target U.S.  citizens to  obtain classified  or
+sensitive information or is  associated with  a risk of terrorism.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 7. The following are potentially applicable in this case: 
+(a) contact,  rega rdless  of method, with  a  foreign  family member, business  
+or professional  associate, friend, or other person  who  is a  citizen  of or  
+resident  in  a  foreign  country  if that  contact creates  a  heightened  risk of  
+foreign  exploitation, inducement,  manipulation, pressure, or coercion;   
+(b) connections to  a  foreig n  person, group,  government,  or country that  
+create  a  potential conflict of interest  between  the  individual's obligation  to  
+protect  classified  or  sensitive  information  or technology and  the  
+individual’s desire  to  help a  foreign  person, group, or country by providing  
+that information or technology;  
+(e) shared living quarters with a person or persons, regardless of 
+citizenship status, if that relationship creates a heightened risk of foreign 
+inducement, manipulation, pressure, or coercion; and 
+7 
+ 
+ 
+ 
+ 
+    
+        
+ 
+ 
+         
+      
+     
+        
+        
+        
+  
+ 
+       
+      
+         
+      
+        
+        
+ 
+ 
+      
+             
+      
+      
+  
+       
+       
+         
+      
+ 
+         
+        
+     
+         
+      
+       
+         
+  
+  
+        
+     
+       
+         
+           
+        
+ 
+(f) substantial business, financial, or property interests in a foreign country, 
+or in any foreign owned or foreign -operated business that could subject 
+the individual to a heightened risk of foreign influence or exploitation or 
+personal conflict of interest. 
+The nature of a nation's government, its relationship with the United States, and 
+its human-rights record are relevant in assessing the likelihood that an applicant's family 
+members are vulnerable to government coercion or inducement. The risk of coercion, 
+persuasion, or duress is significantly greater if the foreign country has an authoritarian 
+government, a family member or friend is associated with or dependent upon the 
+government, the country is known to conduct intelligence collection operations against 
+the United States, or the foreign country is associated with a risk of terrorism. 
+A heightened security risk is established by the administratively noticed facts 
+about Russia in the record. These include Russia's ongoing, persistent, pervasive 
+attempts to target the United States, seeking to collect intelligence, erode democracy, 
+undermine U.S. national policies and foreign relationships, and increase Russia's global 
+position and influence. A heightened risk is also established due to Russia's 
+mistreatment and harassment of U.S. citizens and its own citizens, as well as its human 
+rights issues. 
+Applicant's long-term romantic relationship and cohabitation with Ms. B, who is a 
+dual citizen of Russia and the United States and holds a valid Russian passport , create 
+“a heightened risk of foreign exploitation, inducement, manipulation, pressure, or 
+coercion” and “a potential conflict of interest between [his] obligation to protect classified 
+or sensitive information or technology and [his] desire to help a foreign person, group, or 
+country by providing that information or technology.” AG ¶¶ 7(a) , 7(b), and 7( e) are 
+established. AG ¶¶ 7(a) , 7(b), and 7(e) are also established by Applicant’s close and 
+continuing relationship with Ms. B and Ms. B’s bonds of affection with her mother and 
+brother, who are citizens and residents of Russia. 
+To put it another way, Applicant's contacts with Russian nationals in both the 
+United States and Russia, create a potential conflict of interest because Russian 
+officials with knowledge of Applicant's contacts in those countries could place pressure 
+on him , directly or indirectly in an effort to cause him to compromise sensitive 
+information. Those relationships create “a heightened risk of foreign inducement, 
+manipulation, pressure, or coercion” under AG ¶ 7. Applicant’s close and continuing 
+relationship with Ms. B and her ownership of Russian real property also establishes AG 
+¶ 7(f). 
+When an allegation under a disqualifying condition is established, “the Directive 
+presumes there is a nexus or rational connection between proven conduct or 
+circumstances ... and an applicant's security eligibility. Direct or objective evidence of 
+nexus is not required.” ISCR Case No. 17-00507 at 2 (App. Bd. June 13, 2018) (citing 
+ISCR Case No. 15 -08385 at 4 (App. Bd. May 23, 2018)). Once disqualifying conditions 
+are established, the burden then shifts to Applicant prove that he has mitigated the 
+security concerns. 
+8 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+ 
+   
+       
+   
+ 
+       
+           
+          
+        
+     
+         
+       
+         
+      
+         
+            
+         
+   
+       
+     
+ 
+AG ¶ 8 lists conditions that could mitigate foreign influence security concerns 
+including the following that are potentially applicable: 
+(a) the  nature  of the  relationships with  foreign  persons, the  country in  
+which  these  persons are located,  or the  positions or activities of those  
+persons in that country are such  that it is unlikely the  individual will  be  
+placed  in a  position  of having  to  choose  between  the  interests of a  foreign  
+individual, group, organization, or government and  the  interests  of the  
+United States;  
+(b) there  is no  conflict of interest,  either  because  the  individual's  sense  of  
+loyalty or obligation  to  the  foreign  person,  or allegiance  to  the  group,  
+government,  or country is so  minimal, or the  individual has such  deep  and  
+longstanding  relationships and  loyalties in the  United  States, that the  
+individual can  be  expected  to  resolve any conflict of interest in favor of the  
+U.S. interest;  
+(c)  contact or communication  with  foreign  citizens is so  casual and  
+infrequent that there is  little likelihood  that it could create  a  risk for foreign  
+influence or exploitation;  
+(e) the individual has promptly complied with existing agency requirements  
+regarding  the  reporting  of contacts,  requests,  or threats  from  persons,  
+groups, or organizations from  a foreign country; and  
+(f) the value or routine nature of the foreign business, financial, or property 
+interests is such that they are unlikely to result in a conflict and could not 
+be used effectively to influence, manipulate, or pressure the individual. 
+Applicant has a close and longstanding romantic relationship with Ms. B. While 
+she is a U.S. citizen and resides in the United States, she holds a Russian passport, 
+and has traveled to Russia in the past. She allegedly does not intend to travel to Russia 
+in the future, but the record evidence is equivocal on this point , especially if her elderly 
+mother falls ill . Applicant has little contact with Ms. B’s Russian family members who 
+reside in Russia, but that relationship must be viewed through a lens that reflects an 
+individual’s natural ties to the immediate family of their longstanding romantic partner. I 
+consider these factors against the backdrop of the nature of the Russian government. 
+The Russian government does not respect the fundamental rights of its own citizens, 
+much less the rights of the citizens of the United States. Russia has made consistent 
+and pervasive efforts to harm U.S. interests through espionage and other unseemly 
+means. Given these considerations, I do not find that Applicant has met his burden of 
+showing that it is unlikely he will be placed in a position of having to choose between the 
+interests of a foreign individual, group, organization, or government and the interests of 
+the United States. AG ¶ 8(a) does not apply. 
+9 
+ 
+ 
+ 
+        
+        
+     
+           
+          
+  
+ 
+           
+         
+     
+         
+ 
+ 
+     
+     
+          
+          
+      
+   
+ 
+         
+         
+        
+          
+             
+  
+ 
+ 
+ 
+ 
+ 
+       
+       
+         
+      
+AG ¶ 8(b) is partially applicable. Applicant has deep and longstanding ties to the 
+United States. H e was born in the United States and has lived here his entire life. His 
+children, his friends, and his assets are here. He has worked for U.S. -based defense 
+contractors for over 30 years. However, given the close an d longstanding nature of his 
+relationship with Ms. B, and considering her ties to a repressive country and 
+government, a conflict of interest persists. 
+AG ¶ 8(c) does not apply. The contact Applicant maintains with a Russian citizen 
+is not infrequent or casual and could create a risk for foreign influence or exploitation. 
+This sentiment is especially true because Applicant’s long-term partner has close family 
+members who live in a country that would not hesitate to leverage those relationships to 
+gain sensitive U.S. information. 
+AG ¶ 8(e) is applicable, but its applicability is not dispositive of overall mitigation. 
+Record evidence shows that Applicant has promptly reported his Russian contacts. 
+While this action provides evidence that he is being open and honest about his Russian 
+contacts, it does not remove the underlying heightened risk of foreign exploitation, 
+inducement, manipulation, pressure, or coercion . These disclosures also do not 
+eliminate his potential conflict of interest. 
+AG ¶ 8( f) is applicable to the two apartments in Russia the Government alleged 
+in SOR ¶¶ 1.d and 1.e. The value of these apartments , while significant, pales in 
+comparison to the wealth that Applicant has accumulated in the United States. 
+Moreover, Ms. B appears to have divested her control of those properties to some 
+degree, and Applicant has no ownership interest in them. I find that these apartments 
+could not be used to influence, manipulate, or pressure Applicant. 
+Whole-Person Concept  
+Under the  whole-person  concept,  the  administrative judge  must  evaluate  an  
+applicant’s eligibility for a  security clearance  by considering  the  totality of the  applicant’s  
+conduct and  all  relevant circumstances.  The  administrative  judge  should  consider the  
+nine  adjudicative  process factors listed at AG  ¶ 2(d):  
+(1) The  nature, extent,  and  seriousness of the  conduct;  (2) the  
+circumstances surrounding  the  conduct,  to  include  knowledgeable  
+participation;  (3) the  frequency  and  recency of the  conduct; (4) the  
+individual’s age  and  maturity at the   time  of the  conduct;  (5) the  extent to  
+which  participation  is voluntary; (6) the  presence  or absence  of  
+rehabilitation  and  other permanent  behavioral changes;  (7) the  motivation  
+for the  conduct;  (8) the  potential  for pressure, coercion,  exploitation, or  
+duress;  and (9) the likelihood  of continuation  or recurrence.  
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelin es and the whole -person concept. I have incorporated my 
+comments under Guideline B in my whole -person analysis. I have considered 
+10 
+ 
+ 
+ 
+       
+       
+     
+          
+             
+      
+          
+  
+ 
+ 
+      
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________ 
+Applicant’s positive character evidence and his longstanding ties to the United States. 
+However, given that Applicant’s long-term romantic partner is a Russian citizen with 
+significant familial ties there , and noting the repressive nature of the Russian 
+Government, combined with its desire and capability to harm U.S. interests, I find his 
+relationship with Ms. B presents an unmitigated conflict of intere st and security risk. The 
+record evidence leaves me with questions and doubts about Applicant’s eligibility and 
+suitability for a security clearance. I conclude Applicant did no t mitigate the foreign 
+influence security concerns. 
+Formal Findings  
+Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+Paragraph  1, Guideline B:  AGAINST APPLICANT 
+Subparagraphs  1.a-1.c:  Against Applicant 
+Subparagraphs 1.d-1.e:  For Applicant 
+Conclusion 
+It is not clearly consistent with the national interest to grant Applicant eligibility for 
+a security clearance. Eligibility for access to classified information is denied. 
+Benjamin R. Dorsey 
+Administrative Judge 
+11 

@@ -1,0 +1,665 @@
+ 
+ 
+ 
+                                                               
+ 
+                       DEPARTMENT OF DEFENSE  
+     DEFENSE OFFICE OF HEARINGS AND APPEALS      
+           
+             
+ 
+ 
+ 
+ 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+     
+    
+ 
+ 
+        
+           
+             
+       
+    
+ 
+ 
+ 
+         
+           
+          
+      
+______________ 
+______________ 
+In  the  matter of:  )  
+ )  
+  )   ISCR  Case No.  22-00005  
+ )  
+Applicant  for Security Clearance  )  
+Appearances  
+For Government: William H. Miller, Esq., Department Counsel 
+For Applicant: Pro se 
+01/03/2025 
+Decision  
+LOUGHRAN, Edward W., Administrative Judge: 
+Applicant mitigated the security concerns under Guideline s E (personal conduct) 
+and F (financial considerations). Eligibility for access to classified information is granted. 
+Statement  of the Case  
+On April 1 , 202 2, the Department of Defense (DoD) issued a Statement of 
+Reasons (SOR) to Applicant detailing security concerns under Guidelines E and F. 
+Applicant responded to the SOR on April 5, 2022, and requested a hearing before an 
+administrative judge . The case was assigned to another administrative judge on 
+November 1, 2022. The hearing convened as scheduled on January 10, 2023. 
+Evidentiary and Procedural Rulings  
+Evidence  
+Government Exhibits (GE) 1 through 5 were admitted in evidence without 
+objection. Applicant testified and submitted Applicant Exhibits (AE) A and B, which were 
+admitted in evidence without objection. Department Counsel’s motion to amend the 
+SOR by adding allegations that Applicant failed to file his federal (SOR ¶ 1.g) and state 
+1 
+ 
+ 
+ 
+       
+       
+          
+   
+ 
+         
+         
+     
+        
+           
+          
+          
+           
+           
+         
+  
+ 
+ 
+          
+      
+            
+        
+            
+      
+ 
+             
+        
+          
+         
+           
+      
+          
+ 
+ 
+          
+      
+           
+     
+      
+        
+        
+           
+              
+   
+ 
+(SOR ¶ 1.h) income tax returns for tax years 2020 and 2021 was granted without 
+objection. The record was held open for Applicant to submit additional documentary 
+evidence. He submitted an email and attached documents that I have marked AE C and 
+C(1) through C(7) and admitted in evidence without objection. 
+The previous administrative judge was unable to complete the decision , and the 
+case was reassigned to me on October 16, 2024. I informed Applicant that I had the 
+current record, which consists of the pleadings (SOR and response), transcript, and 
+exhibits, including his exhibits submitted post -hearing. I offered h im three choices on 
+how to proceed : 1) I would issue the decision based on the current record ; 2) I would 
+give him reasonable time to supplement the record with additional documentary 
+evidence; 3) we would go back on the record, and he could present additional evidence, 
+by way of testimony, witnesses, and documents, and I w ould allow opening statement 
+and closing argument. He chose to supplement the record with emails and attached 
+documents that I have marked AE D through H and admitted without objection. Email 
+traffic on the matter is marked Hearing Exhibit (HE) IV. 
+Findings of Fact  
+Applicant is 56 years old. As of the date of the hearing, he was an employee of a 
+defense contractor. He had worked for that company or a predecessor company since 
+August 2020. He served on active duty in the U.S. military from 1987 until he was 
+honorably discharged in 1991. He served in the reserve for a few years after he left 
+active duty. He earned a bachelor’s degree in 1995. He has never married, and he has 
+no children. (Tr. at 12-13, 23-29; GE 1) 
+Applicant was terminated in July 2019 from a job he held since 2005. He was 
+terminated when an application was discovered on his computer after the director told 
+him to remove it. Applicant stated that he thought he complied and removed the 
+application, but it may have been reinstalled. He admitted that he was counseled for 
+missing one or two meetings, but he stated that the real reason for his termination was 
+that a new director was hired, and the director wanted a new team. He was unemployed 
+from July 2019 to September 2019 and again from February 2020 until August 2020. 
+(Tr. at 66-75; Applicant’s response to SOR; GE 1, 4) 
+In addition to unfiled income tax returns ( SOR ¶¶ 1.g and 1.h), t he SOR alleges 
+five delinquent debts totaling about $24,345 (SOR ¶¶ 1.a-1.e) and that Applicant owed a 
+deficiency balance on a mortgage after his home was lost to foreclosure (SOR ¶ 1.f). 
+Applicant attributed his financial difficulties primarily to the loss of his job in 2019. 
+However, several of the debts, including his mortgage loan, became delinquent before 
+he lost his job. During his background interview in December 2020, he stated that he 
+got behind on his bills by living beyond his means. He stated that he was spending too 
+much and not paying enough attention to his bills. He testified that because he did not 
+have a pressing need for credit, he did not pay much attention to his credit report. (Tr. at 
+31-34, 39, 41-42, 62-63; Applicant’s response to SOR; GE 4) 
+2 
+ 
+ 
+ 
+         
+        
+        
+     
+   
+       
+         
+      
+      
+         
+          
+    
+ 
+         
+             
+          
+     
+         
+      
+      
+   
+ 
+           
+           
+        
+          
+   
+ 
+         
+           
+      
+          
+       
+         
+      
+     
+  
+ 
+             
+       
+        
+           
+      
+          
+        
+  
+ 
+The $8,145 charged -off credit card debt alleged in SOR ¶ 1.a is listed on the 
+three credit reports offered by the Government. All three credit reporting agencies listed 
+it on the October 2020 combined credit report as an individual account with an activity 
+date of August 2018. The February 2022 and December 2022 Equifax credit reports list 
+that Applicant was only an unauthorized user of the account and not personally liable for 
+it. Applicant did not argue that he was not responsible for the debt. He testified that he 
+had negotiated a payment plan with the creditor about two weeks before the hearing. 
+He admitted that receipt of the SOR spurred his action for this and the other SOR debts. 
+In his initial post-hearing submission, he documented a $254 payment in January 2023. 
+The creditor issued an IRS F orm 1099 -C (Cancellation of Debt) in August 2020 
+cancelling $4,822 in debt. That is consistent with a debt being settled for less than full 
+value. (Tr. at 30-36; Applicant’s response to SOR; GE 1-5; AE C, C(1), D, F) 
+SOR ¶ 1.b alleges a $7,580 charged -off debt to a bank. Applicant had not paid 
+that debt as of the date of his hearing. He stated that the creditor was on his list to 
+contact, but he had not contacted the creditor at that time. He wrote about the debt in a 
+December 2024 email, “I paid on it, but I didn’t get any paperwork for them, just talked 
+to them on the phone and they took money out of my account for a while then stopped 
+abruptly.” He submitted a recent credit report that had the entry, “Paid, Closed. $7,580 
+written.” The account did not have a balance. (Tr. at 37 -38; Applicant’s response to 
+SOR; GE 1-5; AE C, C(2), D, G, H) 
+In December 2022, Applicant initiated a $154 per month payment plan for the 
+$2,471 delinquent debt alleged in SOR ¶ 1.c. The plan called for 15 payments, with the 
+last payment made in March 2024. In April 2024, the creditor confirmed the last 
+payment had been received and the debt was paid. (Tr. at 40-42; Applicant’s response 
+to SOR; GE 2-5; AE A, C, C(3), D, E) 
+Applicant and the collection company handling the $5,462 delinquent debt 
+alleged in SOR ¶ 1.d agreed in December 2022 to resolve the debt with an initial $122 
+payment in December 2022, followed by $132 monthly payments through April 2026, 
+and a final $40 payment in May 2026. He provided proof in his February 2023 post -
+hearing submission that he made the first two payments . Additional payments were 
+scheduled to be automatically deducted from his account. He did not provide 
+documentary proof of his additional payments, but he submitted a December 2024 
+Experian credit report that did not list the account. (Tr. at 42-47; Applicant’s response to 
+SOR; GE 2-5; AE B, C(7), H) 
+SOR ¶ 1.e alleges a $689 collection account owed to what appears to be a utility 
+company for a city. The debt is apparently associated with the house that Applicant lost 
+to foreclosure (see below). The debt is listed by all three credit reporting agencies on 
+the October 2020 combined credit report with an activity date of October 2020. The debt 
+is not listed on the later credit reports. Applicant initially thought the debt was related to 
+state taxes. He was unable to contact the creditor by the time the record initially closed 
+in February 2023. He did not submit any additional information about the debt when the 
+record was reopened. (Tr. at 47-52; Applicant’s response to SOR; GE 2-5; AE B, H) 
+3 
+ 
+ 
+ 
+        
+   
+             
+         
+ 
+ 
+  
+              
+  
+      
+        
+        
+        
+         
+              
+  
+ 
+       
+          
+        
+           
+  
+ 
+ 
+    
+     
+       
+      
+ 
+ 
+       
+        
+       
+         
+   
+ 
+          
+    
+       
+        
+          
+     
+     
+ 
+ 
+SOR ¶ 1.f alleges a deficiency balance on a Department of Veterans Affairs (VA) 
+mortgage after Applicant’s home was lost to foreclosure. He lost his home to foreclosure 
+in about 2019, but there is no evidence that he owes a deficiency balance. All the credit 
+reports in evidence report a $0 balance. (Tr. at 52-58; Applicant’s response to SOR; GE 
+1-5; AE B, H) 
+Applicant did not file his federal and state income tax returns when they were due 
+for tax years 2020 and 2021 (SOR ¶¶ 1.g and 1.h). He testified that he had enough 
+withheld from his pay so that he usually received refunds. He stated that because he did 
+not owe taxes, it was not something that was pressing for him. He retained a tax service 
+in January 2023 after he was asked about the returns during his hearing. The tax 
+service prepared his federal and state income tax returns for tax years 2020 through 
+2022 in January 2023. The tax service indicated that the returns show that he was due 
+a federal refund of $3,114 and refunds of $114 and $275 for two states for 2020. The 
+tax service indicated that he owed the IRS $104 and was due a state refund of $127 for 
+2021. (Tr. at 60-62, 80; AE C, C(4)-C(6)) 
+Applicant testified that his finances were better. He was working a second job 
+that provided some supplemental income. He was able to pay his bills and make 
+payments toward his delinquent debts. He did not report an y financial counseling. The 
+recent credit report did not list any new delinquent debts since his hearing. (Tr. at 58-60, 
+63-65; AE H) 
+Policies  
+This case is adjudicated under Executive Order (EO) 10865, Safeguarding 
+Classified Information within Industry (February 20, 196 0), as amended; DoD Directive 
+5220.6, Defense Industrial Personnel Security Clearance Review Program (January 2, 
+1992), as amended (Directive) ; and the adjudicative guidelines (AG ), which became 
+effective on June 8, 2017. 
+When evaluating an Applicant’s suitability for a security clearance , the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are to be used in evaluating an 
+Applicant’s eligibility for access to classified information. 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, administrative judges apply the guidelines in 
+conjunction with the factors listed in the adjudicative process. The administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and common sense decision. According 
+to AG ¶ 2(c), the entire process is a conscientious scrutiny of a number o f variables 
+known as the “whole-person concept.” The administrative judge must consider all 
+available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a decision. 
+4 
+ 
+ 
+ 
+      
+    
+    
+ 
+ 
+           
+          
+     
+             
+     
+       
+         
+     
+ 
+ 
+          
+               
+        
+ 
+ 
+ 
+ 
+       
+ 
+       
+   
+            
+    
+      
+          
+      
+      
+      
+  
+ 
+    
+    
+ 
+ 
+ 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for national security 
+eligibility will be resolved in favor of the national security.” 
+Under  Directive  ¶  E3.1.14, the  Government  must present evidence  to  establish  
+controverted  facts alleged  in the  SOR. Under Directive ¶  E3.1.15, the  Applicant  is  
+responsible  for presenting  “witnesses and  other evidence  to  rebut,  explain, extenuate,  
+or mitigate  facts admitted  by the  Applicant  or proven  by Department Counsel. ” The   
+Applicant  has the ultimate  burden of persuasion to obtain  a favorable security  decision.  
+A person who seeks access to classified information enters into a f iduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off -duty hours. The 
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk the Applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. 
+Section 7 of EO 10865 provides that adverse decisions shall be “in terms of the 
+national interest and shall in no sense be a determination as to the loyalty of the 
+Applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information). 
+Analysis  
+Guideline F, Financial Considerations  
+The security concern for financial considerations is set out in AG ¶ 18: 
+Failure to live within one ’s means, satisfy debts, and meet financial 
+obligations may indicate poor self -control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual ’s reliability, trustworthiness , and ability to 
+protect classified or sensitive information. Financial distress can also be 
+caused or exacerbated by, and thus can be a possible indicator of, other 
+issues of personnel security concern such as excessive gambling, mental 
+health conditions, substance misuse, or alcohol abuse or dependence. An 
+individual who is financially overextended is at greater risk of having to 
+engage in illegal or otherwise questionable acts to generate funds. 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 19. The following are potentially applicable in this case: 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+       
+  
+ 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+         
+      
+         
+        
+    
+ 
+         
+        
+      
+(a) inability to satisfy debts;   
+(c) a history of not  meeting financial obligations; and  
+(f)  failure to  file or fraudulently filing  annual Federal, state, or local income  
+tax returns or failure to  pay annual Federal,  state, or local income  tax as  
+required.  
+Applicant has a history of financial problems , including delinquent debts and 
+income tax returns that were not timely filed. The above disqualifying conditions are 
+applicable. 
+Conditions that could mitigate the financial considerations security concerns are 
+provided under AG ¶ 20. The following are potentially applicable: 
+(a) the  behavior happened  so  long  ago, was so  infrequent,  or occurred  
+under such  circumstances that it is unlikely to  recur and  does not cast  
+doubt on   the  individual’s current reliability, trustworthiness, or good   
+judgment;   
+(b) the  conditions  that resulted  in the  financial problem  were largely  
+beyond  the  person’s  control (e.g.,  loss of employment, a  business  
+downturn, unexpected  medical emergency,  a  death, divorce  or separation,  
+clear victimization  by  predatory  lending  practices, or identity  theft),  and  the  
+individual acted responsibly under the circumstances;  
+(c)  the  individual has received  or is receiving  financial counseling  for the  
+problem  from  a  legitimate  and  credible  source,  such  as  a  non-profit  credit  
+counseling  service, and  there are clear indications that the  problem  is  
+being resolved or is under control;   
+(d) the  individual initiated  and  is adhering  to  a  good-faith  effort to  repay  
+overdue creditors or otherwise resolve debts; and  
+(g) the  individual has made  arrangements with  the  appropriate  tax  
+authority to  file or pay  the  amount owed  and  is in  compliance  with  those  
+arrangements.  
+Applicant attributed his financial difficulties primarily to the loss of his job in 2019. 
+However, several of the debts, including his mortgage loan, became delinquent before 
+he lost his job. He also admitted that he was living beyond his means and not paying 
+enough attention to his bills. There is insufficient evidence for a finding that his financial 
+problems were largely beyond his control. AG ¶ 20(b) is not applicable. 
+Applicant admitted that receipt of the SOR is what spurred his action to address 
+his finances. Had this case been decided in a timely manner, his security clearance 
+would have likely been denied. It was not, and it is now almost two years since his 
+6 
+ 
+ 
+ 
+          
+  
+ 
+ 
+  
+ 
+ 
+     
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+hearing. During that time , he has filed his back tax returns and paid or otherwise 
+resolved most of his debts. The recent credit report did not list any new delinquent debts 
+since his hearing. 
+A security clearance  adjudication  is not  a  debt collection  procedure.  It  is a  
+procedure designed  to  evaluate  an  applicant’s judgment,  reliability, and  trustworthiness.  
+See  ISCR  Case  No. 09-02160  (App. Bd.  Jun. 21, 2010). Applicant does not present a  
+perfect case  in  mitigation. However, he  has done  enough  to  convince  me  that  his  
+finances are back on  track.  I find  that Applicant’s current finances do  not cast doubt on  
+his judgment,  reliability, trustworthiness,  and  ability to  protect classified  information.  AG  
+¶¶  20(a) and  20(g) are applicable.  AG ¶¶  20(c) and  20(d) are  partially applicable.  
+Security concerns about Applicant’s finances are mitigated.  
+Guideline E, Personal Conduct   
+The security concern for personal conduct is set out in AG ¶ 15, as follows: 
+Conduct involving  questionable judgment, lack of candor,  dishonesty,  or  
+unwillingness to  comply with  rules and  regulations can  raise  questions  
+about an  individual’s reliability, trustworthiness and   ability to   protect  
+classified  or sensitive  information.  Of  special interest is any  failure to  
+cooperate  or provide  truthful and  candid answers during  national security 
+clearance  investigative or adjudicative  processes.   
+AG ¶ 16 describes conditions that could raise a security concern and may be 
+disqualifying. The following disqualifying conditions are potentially applicable: 
+(d) credible  adverse information  that is not  explicitly covered  under any  
+other guideline  and  may  not  be  sufficient by itself for an  adverse  
+determination, but which, when  combined  with  all  available  information,  
+supports a  whole-person  assessment of questionable judgment,  
+untrustworthiness, unreliability, lack of candor, unwillingness to  comply  
+with  rules and  regulations, or other characteristics indicating  that the  
+individual may not properly safeguard classified  or sensitive information.  
+This includes, but is not  limited to, consideration of:   
+(1) untrustworthy or unreliable behavior to  include  breach  of client 
+confidentiality,  release  of proprietary information, unauthorized  
+release  of sensitive corporate or government protected information;  
+(2) any disruptive, violent,  or other inappropriate  behavior;  
+(3) a pattern of dishonesty or rule violations; and  
+(4) evidence  of significant misuse  of Government or other 
+employer’s time or  resources;  and  
+7 
+ 
+ 
+ 
+ 
+ 
+     
+            
+           
+        
+     
+   
+ 
+         
+  
+ 
+ 
+ 
+        
+          
+      
+     
+  
+ 
+ 
+         
+  
+        
+     
+ 
+(e) personal conduct,  or concealment of information  about one’s conduct,  
+that creates a  vulnerability to  exploitation, manipulation, or duress by a  
+foreign  intelligence  entity or other  individual or group.  Such  conduct  
+includes:  
+(1) engaging  in  activities which,  if  known, could affect the   person’s 
+personal, professional, or community standing.  
+SOR ¶ 2.a alleges that Applicant was “fired for cause” from his employment in 
+2019, and that he was “not eligible for rehire.” The only evidence as to why Applicant 
+was terminated came from him. He stated that he was terminated when an application 
+was discovered on his computer after the director told him to remove it. He thought he 
+complied and removed the application, but it may have been reinstalled. That conduct is 
+sufficient to raise security concerns under AG ¶¶ 16(d) and 16(e). 
+AG ¶ 17 provides conditions that could mitigate security concerns. The following 
+are potentially applicable: 
+(c) the  offense  is so  minor, or so  much  time  has passed, or the  behavior is 
+so  infrequent, or it happened  under such  unique  circumstances that it is 
+unlikely to  recur and  does  not cast  doubt  on  the  individual’s  reliability,  
+trustworthiness, or good judgment;  and  
+(e) the  individual has taken  positive steps to  reduce  or eliminate  
+vulnerability to exploitation, manipulation, or duress.  
+Applicant testified that the real reason for his termination was that a new director 
+was hired, and the director wanted a new team. That testimony is undisputed by any 
+other evidence. Applicant ’s conduct is dated and does not cast doubt o n his current 
+reliability, trustworthiness, or good judgmen t. The above mitigating conditions are 
+applicable, and personal conduct security concerns are mitigated. 
+Whole-Person Concept  
+Under the whole -person concept, the administrative judge must evaluate an 
+Applicant’s eligibility for a security clearance by considering the totality of the Applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(d): 
+(1) the  nature,  extent,  and  seriousness  of  the  conduct;  (2) the  
+circumstances surrounding  the  conduct,  to  include  knowledgeable  
+participation;  (3) the  frequency  and  recency of the  conduct; (4) the  
+individual’s age  and  maturity at the   time  of the  conduct;  (5) the  extent to  
+which  participation  is voluntary; (6) the  presence  or absence  of  
+rehabilitation  and  other permanent  behavioral changes;  (7) the  motivation  
+for the  conduct;  (8) the  potential  for pressure, coercion,  exploitation, or  
+duress;  and (9) the likelihood  of continuation  or recurrence.  
+8 
+ 
+ 
+ 
+       
+       
+          
+       
+ 
+ 
+      
+     
+    
+ 
+ 
+       
+   
+ 
+    
+ 
+    
+ 
+   
+ 
+    
+ 
+ 
+        
+   
+ 
+ 
+ 
+ 
+  
+ 
+________________________ 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole -person concept. I have incorporated my 
+comments under Guideline s E and F in my whole -person analysis. I also considered 
+Applicant’s honorable military service. 
+Overall, the r ecord evidence leaves me with out questions or doubts about 
+Applicant’s eligibility and suitability for a security clearance. I conclude Applicant 
+mitigated the personal conduct and financial considerations security concerns. 
+Formal Findings  
+Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+Paragraph  1, Guideline  F:  For Applicant 
+Subparagraphs 1.a-1.h:  For Applicant 
+Paragraph  2, Guideline E: For Applicant  
+Subparagraph  2 .a:  For Applicant 
+Conclusion  
+It is clearly consistent with the national interest to grant Applicant eligibility for a 
+security clearance. Eligibility for access to classified information is granted. 
+Edward W. Loughran 
+Administrative Judge 
+9 

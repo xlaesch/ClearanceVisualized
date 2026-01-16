@@ -1,2 +1,6 @@
 playwright
 pypdf
+streamlit
+pandas
+plotly
+

@@ -18,16 +18,13 @@
     <script type="module">
       import { mount } from "https://cdn.jsdelivr.net/npm/@stlite/browser@1.0.0/build/stlite.js";
 
-      const RAW_BASE =
-        "https://raw.githubusercontent.com/xlaesch/ClearanceVisualized/main";
-
       mount(
         {
-          entrypoint: "visualize_cases.py",
+          entrypoint: "dashboard.py",
           requirements: ["pandas", "plotly"],
           files: {
-            "visualize_cases.py": { url: RAW_BASE + "/visualize_cases.py" },
-            "classified_cases.csv": { url: RAW_BASE + "/classified_cases.csv" }
+            "dashboard.py": { url: "./dashboard.py" },
+            "classified_cases.csv": { url: "./classified_cases.csv" }
           },
           streamlitConfig: {
             "client.toolbarMode": "viewer"

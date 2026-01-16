@@ -1,627 +1,627 @@
-case_id,category_level_1,category_level_2,confidence,notes
-20-03078.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for multiple years.
-20-03310.h1,Financial,Unpaid taxes,0.90,Applicant failed to file and pay 2018 federal income taxes.
-21-02538.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of severe mental health issues impacting reliability.
-22-00005.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for 2020 and 2021.
-22-00010.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has a DWI charge and multiple criminal offenses.; level1_corrected
-22-00243.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant has significant ties and financial support to family in Djibouti.
-22-00396.h2,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant had a DUI incident in 2020 but has not reoffended.
-22-00468.h1,Alcohol Consumption,Pattern of binge drinking,0.85,Applicant has a history of excessive alcohol use and related treatment.
-22-00761.h2,Criminal Conduct,Misdemeanor pattern,0.85,Applicant has multiple misdemeanor arrests for domestic violence.
-22-00842.h1,Criminal Conduct,Felony conviction,0.95,Applicant has a history of serious criminal charges including child endangerment.
-22-00912.h1,Financial,Unpaid taxes,0.90,Applicant has unresolved tax returns and delinquent debts.
-22-01200.h1,Criminal Conduct,Felony conviction,0.90,Applicant viewed child pornography and falsified information during interviews.
-22-01359.h1,Drugs,Distribution or intent to distribute,0.90,Applicant involved in multiple drug distribution incidents.
-22-01640.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of bipolar disorder and anxiety impacting reliability.
-22-01745.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple charged-off debts and bankruptcy issues.
-22-01864.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and delinquent accounts.
-22-01865.h1,Drugs,Pattern of recurring use,0.90,Applicant has a long history of marijuana use and cultivation.
-22-01925.h1,Financial,Unpaid taxes,0.90,Applicant has unpaid federal and state taxes from 2017.
-22-02129.h1,Personal Conduct,False statements on SF-86,0.90,Applicant lied about foreign contacts and money transfer during interviews.
-22-02395.h1,Drugs,Pattern of recurring use,0.85,Applicant had a history of drug use from age 17 to 22 with some relapses.
-22-02560.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose drug use on multiple security clearance applications.
-22-02575.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DWI charges and a history of alcohol-related offenses.; level1_corrected
-22-02603.h1,Foreign Influence,Immediate family members who are foreign nationals,0.90,"Applicant's parents are Taiwanese citizens, raising security concerns."
-22-02626.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $68,000."
-23-00129.h1,Psychological Conditions,Condition affecting judgment or reliability,0.85,Applicant has a history of Major Depressive Disorder affecting reliability.
-23-00198.h1,Drugs,Pattern of recurring use,0.90,Applicant had a history of Oxycodone addiction and recent use.
-23-00241.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $247,000."
-23-00256.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $65,000."
-23-00302.h1,Personal Conduct,False statements on SF-86,0.90,Applicant made false claims about employment and foreign travel.
-23-00303.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has a history of DUI incidents and alcohol misuse.
-23-00361.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple drug uses over several years.
-23-00362.h1,Personal Conduct,Pattern of dishonesty,0.90,Applicant engaged in repeated dishonesty regarding his actions.
-23-00444.h1,Foreign Influence,Close and continuing foreign contacts,0.85,"Applicant has in-laws in Thailand, but limited discussions about work."
-23-00525.h1,Technology Misuse / Information Security,Unauthorized access to systems,0.90,"Applicant installed unauthorized browser, leading to security concerns."
-23-00589.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling $77,436."
-23-00605.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant delinquent debts and failed to disclose them.
-23-00642.h1,Financial,Chronic delinquent debt,0.90,Applicant has 12 delinquent debts linked to financial mismanagement.
-23-00671.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts exceeding $35,000."
-23-00673.h1,Financial,Chronic delinquent debt,0.90,Applicant admitted to multiple delinquent debts.
-23-00723.h1,Financial,Chronic delinquent debt,0.85,Applicant has significant unpaid student loans and unresolved financial issues.
-23-00729.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified reports during background investigations.
-23-00740.h1,Criminal Conduct,Misdemeanor pattern,0.85,Applicant admitted to multiple thefts and received probation.
-23-00788.h1,Financial,Chronic delinquent debt,0.90,"Applicant has $80,000 in delinquent debt and failed to show progress in resolving it."
-23-00935.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant maintained intimate relationships and financial support to foreign nationals.
-23-01001.h1,Technology Misuse / Information Security,Mishandling classified or sensitive data,0.90,Applicant downloaded sensitive data to a personal thumb drive.
-23-01037.h1,Criminal Conduct,Misdemeanor pattern,0.90,Applicant admitted to multiple shoplifting incidents and was convicted.
-23-01069.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple accounts in collections totaling over $30,000."
-23-01070.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unpaid taxes and multiple delinquent accounts.
-23-01131.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal and state tax returns for multiple years.
-23-01135.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and bankruptcy filings.
-23-01143.h1,Drugs,Use during clearance process,0.90,Applicant used cocaine while holding a security clearance.
-23-01144.h1,Financial,Chronic delinquent debt,0.85,Applicant had multiple debts charged off but has since resolved them.
-23-01146.h1,Financial,Chronic delinquent debt,0.90,"Applicant has unresolved debts exceeding $19,000."
-23-01202.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-23-01204.h1,Drugs,Use during clearance process,0.90,Applicant admitted to marijuana use while holding a security clearance.
-23-01257.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-23-01266.h1,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal and state taxes.
-23-01277.h1,Financial,Gambling-related losses,0.90,Applicant has significant gambling losses impacting financial stability.
-23-01292.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of mental health issues impacting reliability.
-23-01303.h2,Financial,Unpaid taxes,0.90,Applicant has significant past-due tax debts and is making payments.
-23-01393.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file federal and state tax returns for 2021 and 2022.
-23-01403.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-23-01439.h1,Drugs,Use during clearance process,0.80,Applicant disclosed past drug use and sought treatment.
-23-01442.h1,Foreign Influence,Close and continuing foreign contacts,0.80,Applicant involved with foreign company and attempted to access classified info.
-23-01448.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $134,000."
-23-01450.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,Applicant financially supports a foreign national girlfriend.
-23-01457.h1,Financial,Chronic delinquent debt,0.90,Applicant has unresolved debts and a history of late tax filings.
-23-01462.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted ongoing marijuana use after submitting clearance application.
-23-01471.h1,Financial,Bankruptcy with aggravating factors,0.90,Applicant has multiple bankruptcies and ongoing financial issues.
-23-01472.h1,Financial,Unpaid taxes,0.90,Applicant has multiple delinquent federal and state tax issues.
-23-01526.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal and state tax returns for 2023.
-23-01548.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 18 delinquent debts totaling $30,348."
-23-01584.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,Applicant has family in Taiwan with significant business interests.
-23-01591.h1,Financial,Unpaid taxes,0.95,Applicant has significant unpaid federal and state tax debts.
-23-01593.h1,Personal Conduct,False statements on SF-86,0.85,Applicant allegedly falsified facts during interviews.
-23-01595.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana and psychedelic mushrooms while holding a security clearance.
-23-01596.h1,Alcohol Consumption,Pattern of binge drinking,0.90,Applicant has a history of multiple DUIs and continues to drink despite treatment.
-23-01614.h2,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal income taxes.
-23-01691.h1,Drugs,Use during clearance process,0.90,Applicant admitted to using anabolic steroids and shipping them illegally.
-23-01698.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted to marijuana use while holding a security clearance.
-23-01716.h1,Personal Conduct,False statements on SF-86,0.90,Applicant made false statements regarding debts and prior incidents.
-23-01723.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting her security clearance application.
-23-01744.h1,Financial,Failure to file required financial disclosures,0.80,Applicant failed to timely file tax returns for multiple years.
-23-01745.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $45,000."
-23-01787.h1,Drugs,Use during clearance process,0.95,Applicant used illegal drugs while holding a security clearance.
-23-01795.h1,Drugs,Use during clearance process,0.80,Applicant used marijuana from 2016 to 2022 but has since abstained.
-23-01853.h1,Alcohol Consumption,Pattern of binge drinking,0.90,Applicant had a history of alcohol abuse but has maintained sobriety for three years.
-23-01862.h1,Drugs,Use during clearance process,0.90,Applicant used THC during the clearance process despite legal implications.
-23-01949.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and payment plans.
-23-02025.h1,Criminal Conduct,Felony conviction,0.95,Applicant has a felony conviction for theft of government property.
-23-02029.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-23-02036.h1,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal and state taxes.
-23-02036.h2,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal and state taxes.
-23-02038.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,"Applicant has major depressive disorder and anxiety, affecting reliability."
-23-02076.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $8,470."
-23-02086.h1,Alcohol Consumption,Failure to disclose treatment or incidents,0.90,Applicant admitted to alcohol dependence and failed to follow treatment advice.
-23-02087.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI incidents and a history of alcohol-related issues.
-23-02090.h1,Criminal Conduct,Felony conviction,0.90,Applicant has multiple arrests and serious allegations of sexual assault.
-23-02146.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file taxes for multiple years.
-23-02168.h1,Drugs,Use during clearance process,0.90,Applicant admitted marijuana use while holding a security clearance.
-23-02175.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose cocaine and marijuana use in security documents.
-23-02177.h1,Financial,Chronic delinquent debt,0.90,Applicant had significant financial issues but is resolving debts.
-23-02201.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unpaid federal and state taxes.
-23-02225.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $55,000."
-23-02228.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $17,000."
-23-02231.h1,Financial,Chronic delinquent debt,0.90,Applicant has a long history of financial problems and multiple delinquent debts.
-23-02234.h1,Drugs,Failure to disclose use,0.80,Applicant admitted past marijuana use but failed to disclose it on SCA.
-23-02239.h1,Drugs,Pattern of recurring use,0.95,"Applicant used illegal drugs frequently, including while holding a clearance."
-23-02241.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI convictions and a history of alcohol misuse.
-23-02249.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant has undisclosed family ties and business with foreign nationals.
-23-02250.h1,Drugs,Use during clearance process,0.90,Applicant admitted to past illegal drug use during clearance process.
-23-02260.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI incidents and failed to disclose one.
-23-02263.h1,Foreign Influence,Close and continuing foreign contacts,0.90,"Applicant has family in Afghanistan and communicates regularly, raising influence concerns."
-23-02323.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use on security clearance application.
-23-02335.h1,Personal Conduct,Pattern of dishonesty,0.90,Applicant falsified information on security clearance application.; level1_corrected
-23-02337.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $26,000."
-23-02354.h1,Drugs,Use during clearance process,0.80,Applicant admitted past marijuana use but claims no intent to use again.
-23-02357.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unpaid debts totaling approximately $59,000."
-23-02361.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use in SF-86.
-23-02370.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $74,000 in unresolved delinquent debts."
-23-02371.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unpaid debts and unfiled tax returns.
-23-02387.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and financial issues.
-23-02402.h2,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple drug uses over several years.
-23-02402.h3,Drugs,Pattern of recurring use,0.85,Applicant admitted to past drug use and selling prescription medication.
-23-02407.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified information on security clearance application.
-23-02412.h1,Financial,Unpaid taxes,0.90,Applicant failed to timely file federal and state tax returns.
-23-02462.h1,Drugs,Use after submitting SF-86,0.85,Applicant used marijuana after submitting security clearance application.
-23-02490.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant diagnosed with paraphilic disorder affecting judgment.
-23-02507.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal and state tax returns as required.
-23-02519.h1,Financial,Unpaid taxes,0.90,Applicant has multiple past-due federal and state taxes.
-23-02540.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling $25,485."
-23-02541.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $20,000 in delinquent debts and unpaid taxes."
-23-02542.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $34,000."
-23-02557.h1,Drugs,Recent use within adjudicative window,0.80,"Applicant used marijuana until Dec 2022, despite knowing it's illegal federally."
-23-02569.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of mental health issues impacting reliability.
-23-02570.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts exceeding $31,000."
-23-02576.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to multiple instances of failing to disclose marijuana use.
-23-02577.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling over $36,000."
-23-02580.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 12 delinquent debts totaling approximately $154,000."
-23-02591.h1,Drugs,Use after submitting SF-86,0.90,Applicant used illegal drugs after being granted security clearance.
-23-02595.h1,Drugs,Recent use within adjudicative window,0.90,Applicant had past drug use while holding a security clearance.
-23-02599.h1,Drugs,Use after submitting SF-86,0.80,Applicant used marijuana and Delta-8 after submitting SF-86 but has since abstained.
-23-02609.h1,Criminal Conduct,Felony conviction,0.90,Applicant has a felony charge for child abuse and a history of related incidents.
-23-02642.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 14 delinquent debts totaling $68,954."
-23-02657.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and unpaid taxes.
-23-02659.h1,Personal Conduct,False statements on SF-86,0.80,"Applicant submitted false labor hours, leading to clearance suspension."
-23-02663.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling over $100,000."
-23-02666.h1,Drugs,Use during clearance process,0.80,Applicant admitted past marijuana use during clearance process.
-23-02668.h1,Financial,Chronic delinquent debt,0.90,Applicant had multiple delinquent debts but is resolving them.
-23-02694.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting security clearance application.
-23-02701.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $23,000."
-23-02709.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified information on security clearance application.
-23-02711.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple debts totaling over $35,310."
-23-02713.h1,Criminal Conduct,Felony conviction,0.70,Applicant was charged with sexual assault but maintains innocence.
-23-02715.h1,Criminal Conduct,Felony conviction,0.90,Applicant has multiple felony convictions and a history of violent conduct.
-23-02716.h1,Drugs,Use during clearance process,0.90,Applicant used THC during military service and failed a drug test.
-23-02802.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple bankruptcies and significant unpaid tax debts.
-23-02804.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to past drug use and distribution.
-23-02808.h1,Drugs,Pattern of recurring use,0.80,Applicant admitted to multiple illegal drug uses over several years.
-23-02820.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of drug use and related offenses.
-23-02826.h1,Foreign Influence,Close and continuing foreign contacts,0.85,Applicant has family ties in Taiwan and financial support to her father.
-23-02830.h1,Drugs,Pattern of recurring use,0.80,Applicant has a history of illegal drug use but has shown intent to abstain.
-23-02832.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling around $47,000."
-23-02838.h1,Personal Conduct,False statements on SF-86,0.90,Applicant denied prior employment misconduct and eligibility for rehire.
-23-02855.h1,Financial,Chronic delinquent debt,0.95,"Applicant has multiple delinquent debts totaling $24,575."
-23-02872.h1,Drugs,Failure to disclose use,0.90,Applicant admitted past marijuana use and failed to disclose it on security forms.
-23-02888.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting security clearance application.
-23-02889.h1,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal income taxes.
-23-02891.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent drug use but has shown intent to reform.
-23-02894.h1,Drugs,Use during clearance process,0.90,Applicant tested positive for marijuana during the clearance process.
-23-02896.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose past marijuana use and related arrests.
-23-02900.h1,Financial,Failure to file required financial disclosures,0.90,"Applicant has not filed tax returns since 2018, indicating financial irresponsibility."
-23-02903.h1,Financial,Chronic delinquent debt,0.90,"Applicant has many unresolved debts totaling $27,686."
-23-02904.h1,Alcohol Consumption,DUI or DWI incidents,0.90,"Applicant pled guilty to DUI, raising security concerns.; level1_corrected"
-23-02933.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file federal income tax returns for multiple years.
-23-02963.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent illegal drug use and failed drug tests.
-24-00001.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling approximately $35,700."
-24-00002.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file income tax returns for multiple years.
-24-00008.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $22,000."
-24-00014.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after applying for security clearance.
-24-00024.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of severe alcohol and drug use.
-24-00026.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and failed to disclose them.
-24-00027.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of bipolar disorder and major depressive disorder.
-24-00030.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unpaid debts and filed for bankruptcy.
-24-00032.h1,Financial,Chronic delinquent debt,0.90,Applicant has unresolved debts and disputes regarding their status.
-24-00060.h1,Financial,Chronic delinquent debt,0.90,Applicant has a history of financial problems and multiple delinquent debts.
-24-00067.h1,Financial,Chronic delinquent debt,0.90,"Applicant admitted multiple debts, some remain unpaid."
-24-00073.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant's PTSD affects judgment and reliability.
-24-00076.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant unresolved delinquent debts totaling over $19,000."
-24-00111.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified background investigation reports and timecards.
-24-00116.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use on security application.
-24-00117.h1,Foreign Influence,Financial ties to foreign persons or entities,0.85,Applicant has family in Ethiopia and provides financial support.
-24-00119.h1,Personal Conduct,False statements on SF-86,0.80,Applicant submitted fraudulent time records during employment.
-24-00132.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted to marijuana use after submitting his SCA.
-24-00139.h1,Criminal Conduct,Felony conviction,0.90,Applicant has a conviction for threat of violence.
-24-00192.h1,Financial,Unpaid taxes,0.90,Applicant has unpaid federal taxes and failed to file returns on time.
-24-00196.h1,Criminal Conduct,Felony conviction,0.80,Applicant admitted to multiple thefts and falsifying work hours.
-24-00197.h1,Drugs,Pattern of recurring use,0.95,Applicant admitted to multiple drug uses over several years.
-24-00198.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $36,000."
-24-00200.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-00204.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of drug abuse including marijuana and harder drugs.
-24-00213.h1,Foreign Preference,Use of foreign passport,0.90,Applicant used Nigerian passport after becoming US citizen.
-24-00220.h1,Drugs,Use of federally illegal substances despite state legality,0.90,Applicant used marijuana legally in state but not federally; ceased use after awareness.
-24-00222.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-00224.h1,Financial,Chronic delinquent debt,0.90,"Applicant has numerous delinquent debts, including federal taxes."
-24-00225.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $18,000."
-24-00227.h1,Financial,Unpaid taxes,0.70,Applicant has significant past-due debt related to divorce.
-24-00236.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use during clearance process.
-24-00237.h1,Drugs,Use during clearance process,0.90,Applicant tested positive for THC during military service.
-24-00245.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose positive marijuana test.
-24-00254.h1,Criminal Conduct,Felony conviction,0.95,Applicant has multiple felony convictions including armed robbery.
-24-00256.h2,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent marijuana use after prior abstinence.
-24-00270.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling approximately $211,000."
-24-00275.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unresolved debts and failed to address them.
-24-00278.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified security clearance applications.
-24-00313.h1,Drugs,Failure to disclose use,0.90,Applicant denied illegal drug use despite admitting marijuana use.
-24-00314.h1,Drugs,Recent use within adjudicative window,0.90,Applicant tested positive for cocaine during security clearance process.
-24-00325.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to marijuana use until September 2023.
-24-00330.h1,Financial,Failure to file required financial disclosures,0.90,"Applicant failed to file taxes from 2012 to 2020, raising trust issues."
-24-00335.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling over $39,000."
-24-00336.h1,Personal Conduct,Pattern of dishonesty,0.90,Applicant has multiple arrests and failures to comply with court orders.; level1_corrected
-24-00337.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to past marijuana use and falsified SCA.
-24-00338.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant delinquent debts and unpaid taxes.
-24-00341.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant has significant ties to a dual citizen of Russia.
-24-00351.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent accounts totaling $19,991."
-24-00361.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $100,000 in debts and failed to provide evidence of repayment efforts."
-24-00362.h1,Criminal Conduct,Felony conviction,0.90,Applicant has a history of domestic violence and harassment convictions.
-24-00363.h1,Drugs,Failure to disclose use,0.85,Applicant did not report marijuana use on SF-86 despite its legality in his state.
-24-00366.h1,Financial,Unpaid taxes,0.90,Applicant failed to file tax returns for 2023 and 2024.
-24-00368.h1,Drugs,Pattern of recurring use,0.90,Applicant has a long history of drug use and spending on illegal substances.
-24-00375.h1,Technology Misuse / Information Security,Policy violations involving IT systems,0.90,Applicant accessed inappropriate content on work computer.
-24-00378.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts but is actively addressing them.
-24-00383.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI incidents and admitted to alcohol use disorder.
-24-00391.h1,Financial,Chronic delinquent debt,0.80,Applicant has a history of delinquent debts but is making efforts to resolve them.
-24-00392.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI convictions and is currently on probation.
-24-00464.h1,Financial,Chronic delinquent debt,0.90,"Applicant has unresolved student loan debt of $48,693."
-24-00468.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a sensitive position.
-24-00478.h1,Drugs,Pattern of recurring use,0.90,"Applicant has a long history of drug use, including recent use."
-24-00482.h1,Drugs,Use after submitting SF-86,0.80,Applicant used marijuana after submitting clearance application.
-24-00490.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $16,700."
-24-00491.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $37,000."
-24-00500.h1,Financial,Unpaid taxes,0.90,Applicant failed to file multiple tax returns and has delinquent tax debts.
-24-00502.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI convictions and alcohol-related incidents.
-24-00503.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting security clearance application.
-24-00517.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $18,000."
-24-00521.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and failed to address them.
-24-00529.h1,Financial,Unpaid taxes,0.90,Applicant has unfiled federal and state tax returns and unpaid taxes.
-24-00531.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 19 delinquent accounts totaling approximately $39,000."
-24-00538.h1,Personal Conduct,Prior employment misconduct,0.80,Applicant was terminated for incorrect time reporting.
-24-00549.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant had multiple DUI incidents and admitted to alcohol use disorder.
-24-00550.h1,Financial,Unpaid taxes,0.90,"Applicant has $10,000 in unpaid federal taxes."
-24-00553.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and failed to file tax returns.
-24-00561.h1,Drugs,Failure to disclose use,0.80,Applicant failed to disclose marijuana use on security application.
-24-00563.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to past marijuana use but failed to disclose citations.
-24-00567.h1,Drugs,Use during clearance process,0.80,Applicant mitigated drug involvement concerns; disclosed use on application.
-24-00577.h1,Financial,Chronic delinquent debt,0.90,"Applicant admitted multiple unresolved debts totaling over $48,000."
-24-00598.h1,Drugs,Use after submitting SF-86,0.90,Applicant used multiple illegal substances after obtaining security clearance.
-24-00600.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use but failed to disclose it in questionnaires.
-24-00603.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to a long history of marijuana use.
-24-00605.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal and state taxes for multiple years.
-24-00606.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to frequent marijuana use and cultivation.
-24-00611.h1,Financial,Unpaid taxes,0.90,Applicant failed to file taxes and has significant unpaid tax debt.
-24-00613.h1,Financial,Unpaid taxes,0.90,Applicant has unpaid federal and state income taxes.
-24-00614.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for multiple years.
-24-00615.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified SCA by omitting arrests and drug use.
-24-00641.h1,Alcohol Consumption,Pattern of binge drinking,0.90,Applicant has a history of severe alcohol use disorder and inconsistent abstinence.
-24-00644.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-00647.h1,Financial,Unpaid taxes,0.90,Applicant has multiple unpaid federal and state taxes.
-24-00650.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant's bipolar disorder and alcohol use disorder impair judgment.
-24-00652.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and a history of bankruptcy.
-24-00653.h1,Financial,Bankruptcy with aggravating factors,0.90,Applicant admitted to multiple bankruptcies and significant debts.
-24-00658.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file federal and state tax returns from 2018 to 2022.
-24-00659.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and unpaid taxes.
-24-00666.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple drug uses over several years.
-24-00694.h1,Financial,Chronic delinquent debt,0.95,"Applicant has multiple delinquent debts totaling over $225,000."
-24-00705.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $31,000."
-24-00743.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple illegal drug uses over several years.
-24-00744.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-00747.h1,Financial,Chronic delinquent debt,0.80,Applicant has unresolved debts and disputes regarding financial obligations.
-24-00750.h1,Foreign Influence,Financial ties to foreign persons or entities,0.85,Applicant has foreign family ties and potential property inheritance.
-24-00773.h1,Financial,Failure to file required financial disclosures,0.90,"Applicant failed to file taxes for multiple years, indicating poor financial judgment."
-24-00798.h1,Drugs,Use during clearance process,0.90,Applicant used illegal drugs while applying for clearance.
-24-00802.h1,Criminal Conduct,Failure to disclose prior charges,0.80,Applicant misused company resources and was dishonest during the investigation.; level1_corrected
-24-00808.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple tax liens and debts totaling over $88,000."
-24-00815.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and unpaid taxes.
-24-00816.h1,Drugs,Recent use within adjudicative window,0.90,Applicant's illegal marijuana use raises security concerns.
-24-00831.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-00832.h1,Personal Conduct,Prior employment misconduct,0.85,Applicant terminated for inappropriate conduct related to expense claims.
-24-00833.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted ongoing marijuana use after SCA submission.
-24-00839.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $14,000."
-24-00844.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of schizophrenia and noncompliance with treatment.
-24-00845.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and periods of unemployment.
-24-00847.h1,Psychological Conditions,Condition affecting judgment or reliability,0.85,Applicant has PTSD and other disorders affecting reliability.
-24-00850.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,Applicant's relationship with foreign family raises security concerns.
-24-00853.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant unpaid debts totaling over $34,822."
-24-00854.h1,Financial,Unpaid taxes,0.90,Applicant has delinquent federal and state taxes.
-24-00856.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use and failure to disclose on SCA.
-24-00885.h1,Financial,Unpaid taxes,0.90,Applicant has multiple unpaid tax returns and significant tax debts.
-24-00887.h1,Drugs,Failure to disclose use,0.90,Applicant falsified drug use on security clearance application.
-24-00891.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file federal and state tax returns from 2018 to 2021.
-24-00892.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,"Applicant has family ties and property in Iraq, raising foreign influence concerns."
-24-00896.h1,Financial,Chronic delinquent debt,0.90,"Applicant has unresolved debts totaling approximately $33,933."
-24-00901.h1,Financial,Unpaid taxes,0.90,"Applicant owes $25,000 in past-due federal taxes."
-24-00902.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unresolved delinquent debts.
-24-00904.h1,Drugs,Use of federally illegal substances despite state legality,0.90,Applicant used marijuana legally in state but federally illegal.
-24-00905.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted recent illegal drug use and failed to complete treatment.
-24-00906.h1,Financial,Unpaid taxes,0.90,Applicant has significant unpaid federal and state taxes.
-24-00907.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of illegal drug use and arrests.
-24-00908.h1,Drugs,Use during clearance process,0.80,Applicant admitted to marijuana use until April 2023.
-24-00913.h1,Drugs,Failure to disclose use,0.90,Applicant omitted past drug use in e-QIPs.
-24-00913.h2,Drugs,Failure to disclose use,0.90,"Applicant omitted past drug use in e-QIPs, raising security concerns."
-24-00914.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple drug uses over several years.
-24-00914.h2,Drugs,Pattern of recurring use,0.90,Applicant has a history of multiple drug use over several years.
-24-00923.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling approximately $68,000."
-24-00924.h1,Financial,Chronic delinquent debt,0.90,"Applicant has $32,000 in delinquent debt and no progress on repayment."
-24-00928.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DWI convictions and ongoing alcohol-related issues.
-24-00934.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file multiple years of tax returns.
-24-00941.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file state and federal tax returns for multiple years.
-24-00944.h1,Drugs,Use after submitting SF-86,0.90,Applicant used psilocybin mushrooms after submitting the Questionnaire.
-24-00946.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant unpaid debts exceeding $25,000."
-24-00948.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose drug use during security clearance process.
-24-00954.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to THC use until January 2024.
-24-00967.h1,Foreign Influence,Immediate family members who are foreign nationals,0.90,Applicant has ties to foreign nationals through family.
-24-00968.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to drug use but failed to disclose it in prior applications.
-24-00972.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DWI arrests indicating a pattern of alcohol-related issues.
-24-00973.h1,Drugs,Recent use within adjudicative window,0.90,"Applicant used marijuana and psychedelics recently, impacting clearance."
-24-00976.h1,Financial,Unpaid taxes,0.90,Applicant has delinquent federal taxes and failed to file state returns.
-24-00979.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant past-due student loans and other debts.
-24-00994.h1,Drugs,Failure to disclose use,0.90,Applicant denied marijuana use on security forms despite prior admissions.
-24-00998.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to timely file federal tax returns.
-24-01001.h1,Drugs,Pattern of recurring use,0.90,"Applicant used marijuana frequently over 20 years, raising security concerns."
-24-01004.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana and Adderall after submitting SF-86.
-24-01005.h1,Drugs,Use during clearance process,0.90,Applicant admitted to marijuana use during employment at a dispensary.
-24-01008.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $56,000."
-24-01011.h1,Criminal Conduct,Felony conviction,0.90,Applicant has multiple felony convictions and arrests.
-24-01012.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and unpaid taxes.
-24-01019.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted illegal drug use and intends to continue.
-24-01022.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use in security clearance application.
-24-01023.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to past marijuana use and falsified SCA.
-24-01029.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for multiple years.
-24-01030.h1,Drugs,Use of federally illegal substances despite state legality,0.90,"Applicant used medical marijuana, illegal federally, despite state legality."
-24-01034.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent debts totaling over $21,000."
-24-01035.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant delinquent debt and failed to mitigate financial concerns.
-24-01060.h1,Financial,Unpaid taxes,0.90,Applicant failed to file multiple tax returns and has delinquent debts.
-24-01062.h1,Financial,Chronic delinquent debt,0.90,Applicant had significant tax debts and issues with IRS payments.
-24-01064.h1,Drugs,Pattern of recurring use,0.85,Applicant has a history of marijuana use from 1998 to 2023.
-24-01070.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $27,000."
-24-01071.h1,Financial,Unpaid taxes,0.90,Applicant had unpaid taxes but is resolving them with IRS payments.
-24-01075.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has a DWI conviction and history of alcohol-related issues.
-24-01079.h1,Personal Conduct,Security violations in past roles,0.85,Applicant had multiple security violations related to handling classified info.
-24-01087.h1,Personal Conduct,Pattern of dishonesty,0.85,Applicant admitted to sexual misconduct and failed to disclose details.
-24-01091.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant has significant ties to Syria and foreign family members.
-24-01100.h1,Foreign Influence,Immediate family members who are foreign nationals,0.90,"Applicant has Jordanian parents and sister, raising foreign influence concerns."
-24-01101.h1,Drugs,Failure to disclose use,0.80,Applicant admitted to marijuana use without disclosure.
-24-01103.h1,Financial,Unpaid taxes,0.95,"Applicant failed to file taxes for multiple years, owes significant back taxes."
-24-01106.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and a history of financial mismanagement.
-24-01107.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unpaid federal and state taxes.
-24-01112.h1,Financial,Chronic delinquent debt,0.90,"Applicant failed to resolve delinquent debts, impacting security clearance."
-24-01113.h1,Criminal Conduct,Felony conviction,0.85,Applicant admitted to embezzlement and theft.
-24-01114.h1,Drugs,Use after submitting SF-86,0.80,Applicant admitted THC use after SF-86 submission but has mitigated concerns.
-24-01115.h1,Drugs,Pattern of recurring use,0.95,Applicant admitted to extensive drug use over many years.
-24-01118.h1,Foreign Influence,Close and continuing foreign contacts,0.90,"Applicant has family in Iraq, including government employees."
-24-01121.h1,Drugs,Failure to disclose use,0.90,Applicant falsified drug use on security clearance application.
-24-01122.h1,Criminal Conduct,Felony conviction,0.95,Applicant convicted of felony sexual exploitation of a minor.
-24-01127.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after being granted a security clearance.
-24-01129.h1,Financial,Unpaid taxes,0.90,Applicant failed to file required tax returns and has delinquent taxes.
-24-01134.h1,Personal Conduct,Omission of required information,0.80,Applicant had an extramarital affair not disclosed to his wife.
-24-01137.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal tax returns and has delinquent state taxes.
-24-01153.Revised.h1,Drugs,Use during clearance process,0.90,"Applicant used psilocybin while employed, impacting clearance."
-24-01162.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent marijuana and psilocybin use.
-24-01166.h1,Drugs,Recent use within adjudicative window,0.90,Applicant has a drug conviction from 2017.
-24-01167.h1,Personal Conduct,False statements on SF-86,0.90,Applicant admitted to falsifying information on security clearance applications.
-24-01168.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $34,000."
-24-01170.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified DUI charges on security clearance application.
-24-01171.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to past drug use but failed to disclose on SF-86.
-24-01173.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $69,000."
-24-01181.h1,Foreign Influence,Close and continuing foreign contacts,0.80,"Applicant has family ties in Iraq, raising foreign influence concerns."
-24-01185.h1,Financial,Unpaid taxes,0.80,Applicant had late tax filings but mitigated concerns.
-24-01187.h1,Financial,Unpaid taxes,0.90,"Applicant has a $31,861 federal tax lien."
-24-01208.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for multiple years.
-24-01210.h1,Drugs,Use during clearance process,0.95,Applicant used THC while employed in a sensitive position.
-24-01218.h1,Drugs,Pattern of recurring use,0.95,Applicant has a long history of illegal drug use over 17 years.
-24-01222.h1,Financial,Unpaid taxes,0.90,Applicant has unpaid taxes and filed for bankruptcy.
-24-01225.h1,Drugs,Pattern of recurring use,0.90,Applicant had a history of illegal drug use but has shown intent to abstain.
-24-01230.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple charged-off debts and ongoing collection actions.
-24-01236.h1,Financial,Unpaid taxes,0.90,Applicant failed to file taxes for multiple years and has significant unpaid debts.
-24-01249.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to timely file tax returns but has since resolved issues.
-24-01252.h1,Drugs,Failure to disclose use,0.90,Applicant falsely stated no illegal drug use on SF-86.
-24-01255.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $30,000."
-24-01257.h1,Financial,Chronic delinquent debt,0.90,"Applicant has two delinquent debts totaling $40,610."
-24-01258.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to multiple illegal drug uses over several years.
-24-01259.h1,Foreign Influence,Close and continuing foreign contacts,0.90,"Applicant has multiple family members in Kenya, raising foreign influence concerns."
-24-01264.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $30,000."
-24-01270.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has multiple DUI incidents and alcohol-related offenses.
-24-01279.h1,Drugs,Failure to disclose use,0.90,Applicant falsified drug use on security forms.
-24-01286.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling over $38,000."
-24-01288.h1,Criminal Conduct,Felony conviction,0.90,Applicant has a felony robbery conviction and multiple arrests.
-24-01289.h1,Drugs,Distribution or intent to distribute,0.90,Applicant sold ecstasy to an undercover officer.
-24-01297.h1,Personal Conduct,False statements on SF-86,0.90,Applicant made false disclosures in security clearance questionnaire.
-24-01302.h1,Personal Conduct,Pattern of dishonesty,0.90,Applicant engaged in dishonest conduct related to timekeeping.
-24-01304.h1,Alcohol Consumption,DUI or DWI incidents,0.95,Applicant has multiple DWI convictions and admitted ongoing excessive alcohol use.
-24-01305.h1,Drugs,Use of federally illegal substances despite state legality,0.90,"Applicant used medical marijuana, which is illegal federally."
-24-01306.h1,Financial,Chronic delinquent debt,0.95,"Applicant has multiple unresolved debts totaling over $31,000."
-24-01307.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting security clearance applications.
-24-01313.h1,Financial,Chronic delinquent debt,0.90,"Applicant has $54,000 in delinquent debt and no plans to resolve it."
-24-01316.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose past drug use on multiple forms.
-24-01318.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling approximately $106,000."
-24-01320.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana and mushrooms after submitting clearance forms.
-24-01325.h1,Drugs,Pattern of recurring use,0.90,"Applicant admitted to long-term marijuana use, including while employed."
-24-01326.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to ongoing drug use despite prior assurances.
-24-01332.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to marijuana use during the adjudicative window.
-24-01359.h1,Personal Conduct,Failure to disclose required information,0.85,Applicant did not report extortion incident to security officer.; invalid_label
-24-01365.h1,Financial,Unpaid taxes,0.90,Applicant failed to file multiple tax returns and has delinquent tax debts.
-24-01367.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted past drug use but has shown intent to abstain.
-24-01389.h1,Drugs,Pattern of recurring use,0.95,Applicant has a long history of drug use and multiple arrests.
-24-01390.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,Applicant has significant financial support ties to family in Moldova and Ukraine.
-24-01392.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts exceeding $16,000."
-24-01400.h1,Drugs,Failure to disclose use,0.90,Applicant omitted past drug use and rehabilitation in e-QIP.
-24-01402.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of marijuana use from 2009 to 2023.
-24-01403.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and admitted to them.
-24-01410.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified information on security clearance application.
-24-01412.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to frequent marijuana and inhalant use.
-24-01413.h1,Drugs,Recent use within adjudicative window,0.95,Applicant admitted ongoing marijuana use while holding a sensitive position.
-24-01417.h1,Drugs,Pattern of recurring use,0.90,Applicant has a history of using multiple illegal drugs over several years.
-24-01418.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $36,000."
-24-01421.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted to marijuana use after submitting her SCA.
-24-01425.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved delinquent debts.
-24-01429.h1,Financial,Chronic delinquent debt,0.90,"Applicant has six delinquent debts totaling $11,262."
-24-01457.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent debts totaling over $35,000."
-24-01458.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $35,000 in past-due debts and has not addressed them."
-24-01461.h1,Financial,Chronic delinquent debt,0.95,Applicant has multiple debts and failed to resolve them.
-24-01467.h1,Drugs,Use during clearance process,0.80,Applicant used marijuana while holding a security clearance.
-24-01471.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent debts totaling $46,411."
-24-01474.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple bankruptcies and unresolved debts.
-24-01515.h1,Drugs,Use after submitting SF-86,0.80,Applicant used marijuana briefly in 2023 after a long abstinence.
-24-01516.h1,Drugs,Pattern of recurring use,0.95,Applicant has a history of multiple illegal drug uses over several years.
-24-01523.h1,Financial,Chronic delinquent debt,0.90,Applicant admitted to significant credit card debt and failed to resolve it.
-24-01529.h1,Financial,Chronic delinquent debt,0.80,Applicant has a history of delinquent debts but is taking steps to resolve them.
-24-01532.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple bankruptcies and unresolved debts.
-24-01537.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted to marijuana use and intends to continue despite federal law.
-24-01542.h1,Personal Conduct,Prior employment misconduct,0.90,Applicant terminated for unprofessional behavior and misconduct.
-24-01543.h1,Drugs,Recent use within adjudicative window,0.90,Applicant used marijuana recently and has a history of illegal drug use.
-24-01544.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant past-due debts totaling about $24,000."
-24-01547.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified security logs and admitted to backdating them.
-24-01549.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent accounts totaling over $73,000."
-24-01550.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting security clearance application.
-24-01553.h1,Financial,Chronic delinquent debt,0.90,"Applicant has a charged-off debt of $31,559."
-24-01558.h1,Financial,Chronic delinquent debt,0.90,"Applicant has unresolved debts exceeding $38,000."
-24-01560.h1,Drugs,Use during clearance process,0.90,Applicant admitted marijuana use while holding a security clearance.
-24-01563.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $36,000 in unresolved delinquent debts."
-24-01566.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $95,877."
-24-01570.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts exceeding $15,000."
-24-01572.h1,Drugs,Recent use within adjudicative window,0.85,"Applicant used marijuana until December 2024, raising concerns."
-24-01576.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted THC use after submitting clearance application.
-24-01584.h1,Financial,Bankruptcy with aggravating factors,0.90,Applicant has filed multiple bankruptcies and has ongoing financial issues.
-24-01586.h1,Criminal Conduct,Failure to disclose prior charges,0.80,Applicant had issues with handling protected information.; level1_corrected
-24-01588.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use but did not disclose it on SF-86.
-24-01602.h1,Drugs,Use after submitting SF-86,0.80,Applicant used marijuana after submitting her security clearance application.
-24-01603.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling about $48,000."
-24-01606.h1,Drugs,Pattern of recurring use,0.80,Applicant used multiple illegal substances over several years.
-24-01609.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and ongoing collection actions.
-24-01610.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and a history of financial issues.
-24-01612.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use and falsified SCA responses.
-24-01615.h1,Financial,Chronic delinquent debt,0.90,"Applicant has over $77,000 in unresolved delinquent debts."
-24-01618.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant past-due debts primarily from former spouse.
-24-01632.h1,Financial,Unpaid taxes,0.90,Applicant failed to file federal and state income tax returns.
-24-01635.h1,Financial,Chronic delinquent debt,0.90,Applicant had significant debts due to divorce and acted to resolve them.
-24-01636.h1,Financial,Unpaid taxes,0.90,Applicant has multiple delinquent federal income tax debts.
-24-01638.h1,Drugs,Failure to disclose use,0.80,Applicant admitted to THC use and attempted urine sample adulteration.
-24-01639.h1,Financial,Unpaid taxes,0.90,Applicant has significant delinquent federal income taxes.
-24-01655.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling approximately $23,000."
-24-01659.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and ongoing repayment plans.
-24-01670.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent marijuana and psilocybin use.
-24-01671.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and failed to file tax returns.
-24-01685.h1,Drugs,Failure to disclose use,0.90,Applicant failed to disclose marijuana use on security clearance application.
-24-01706.h1,Drugs,Distribution or intent to distribute,0.90,"Applicant supports son's marijuana cultivation, violating federal law."
-24-01713.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use but failed to disclose it.
-24-01716.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $23,000."
-24-01718.h1,Drugs,Recent use within adjudicative window,0.95,Applicant used marijuana frequently until September 2024.
-24-01730.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $16,000."
-24-01734.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling $11,472."
-24-01746.h1,Drugs,Use after submitting SF-86,0.80,Applicant admitted past marijuana use and reported an unknowing incident.
-24-01749.h1,Drugs,Recent use within adjudicative window,0.90,Applicant has a history of opioid and benzodiazepine misuse.
-24-01767.h1,Financial,Unpaid taxes,0.90,"Applicant has delinquent federal and state taxes totaling over $15,000."
-24-01768.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple charged-off accounts and debts.
-24-01769.h1,Drugs,Use during clearance process,0.90,Applicant admitted to ongoing marijuana use despite federal illegality.
-24-01775.h1,Financial,Chronic delinquent debt,0.90,"Applicant has nine delinquent debts exceeding $45,000."
-24-01778.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $57,000."
-24-01780.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and filed for bankruptcy.
-24-01784.h1,Drugs,Recent use within adjudicative window,0.90,Applicant used marijuana during the clearance process.
-24-01787.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after clearance granted.
-24-01789.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unpaid debts and a judgment against him.
-24-01801.h1,Drugs,Recent use within adjudicative window,0.90,Applicant admitted to recent marijuana use despite clearance process.
-24-01841.h1,Alcohol Consumption,Pattern of binge drinking,0.90,Applicant has a history of multiple DUIs and ongoing alcohol use concerns.
-24-01844.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to extensive illegal drug use and distribution.
-24-01854.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-01855.h1,Drugs,Use during clearance process,0.80,Applicant used marijuana while holding a security clearance but has shown intent to abstain.
-24-01861.h1,Personal Conduct,False statements on SF-86,0.80,Applicant engaged in illegal sexual conduct and failed to disclose it.
-24-01866.h1,Drugs,Use during clearance process,0.90,Applicant admitted to using marijuana while holding a security clearance.
-24-01872 .h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $12,000."
-24-01894.h1,Drugs,Use during clearance process,0.85,Applicant used marijuana while holding a security clearance.
-24-01907.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to timely file tax returns but has since resolved issues.
-24-01921.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has a history of DUI and ongoing alcohol consumption.
-24-01925.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to frequent marijuana use from 2012 to 2022.
-24-01933.h1,Financial,Chronic delinquent debt,0.85,Applicant has a history of delinquent debts but is resolving them.
-24-01935.h1,Drugs,Use during clearance process,0.95,Applicant used marijuana while holding a security clearance.
-24-01944.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $44,807."
-24-01948.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 23 delinquent debts totaling $48,631."
-24-01956.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling about $31,000."
-24-01962.h1,Alcohol Consumption,DUI or DWI incidents,0.90,Applicant has a history of DUI incidents and alcohol-related conduct.
-24-01967.h1,Personal Conduct,False statements on SF-86,0.90,Applicant failed to disclose DUI and drug use on security application.
-24-01971.h1,Financial,Chronic delinquent debt,0.95,Applicant has multiple unresolved delinquent accounts.
-24-01980.h1,Drugs,Use of federally illegal substances despite state legality,0.90,"Applicant invested in a THC-related business, violating federal law."
-24-01982.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $31,000."
-24-01985.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and a history of bankruptcy.
-24-01994.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant delinquent debts totaling over $62,000."
-24-01996.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple debts and is enrolled in a debt relief program.
-24-02030.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling $49,549."
-24-02034.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after obtaining a security clearance.
-24-02035.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $23,000."
-24-02049.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts exceeding $25,000."
-24-02051.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling over $24,000."
-24-02052.h1,Financial,Unpaid taxes,0.90,Applicant has a tax lien and admitted failure to file taxes.
-24-02056.h1,Financial,Chronic delinquent debt,0.90,"Applicant has unresolved debts exceeding $68,000."
-24-02059.h1,Foreign Influence,Immediate family members who are foreign nationals,0.90,"Applicant has family members in India, raising foreign influence concerns."
-24-02064.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $89,000."
-24-02074.h1,Financial,Unpaid taxes,0.90,Applicant failed to file Federal income tax returns for 2023.
-24-02076.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple charged off debts and no mitigation evidence.
-24-02077.h1,Drugs,Use while holding a security clearance,0.90,Applicant used marijuana in July 2024 while holding a security clearance.; invalid_label
-24-02080.h1,Financial,Unpaid taxes,0.90,Applicant has significant unpaid taxes and delinquent debts.
-24-02085.h1,Personal Conduct,False statements on SF-86,0.90,Applicant falsified employment history and anger management referral.
-24-02094.h1,Financial,Bankruptcy with aggravating factors,0.90,Applicant filed for Chapter 13 bankruptcy amid ongoing financial issues.
-24-02098.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and a recent bankruptcy.
-24-02101.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana while holding a sensitive position.
-24-02104.h1,Financial,Unpaid taxes,0.90,Applicant failed to timely file federal income tax returns for multiple years.
-24-02106.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to marijuana use and failed to disclose it on SF-86.
-24-02140.h1,Financial,Chronic delinquent debt,0.90,"Applicant has a charged-off credit card debt of $24,348."
-24-02143.h1,Drugs,Pattern of recurring use,0.90,Applicant used marijuana daily for over 10 years and other drugs.
-24-02155.h1,Drugs,Recent use within adjudicative window,0.90,Applicant used marijuana recently while holding a sensitive position.
-24-02156.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $24,000."
-24-02161.h1,Financial,Unpaid taxes,0.90,Applicant admitted to failing to pay federal and state taxes.
-24-02169.h1,Financial,Unpaid taxes,0.90,Applicant has delinquent federal tax debts for 2017 and 2019.
-24-02171.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file tax returns for multiple years.
-24-02172.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file multiple years of tax returns.
-24-02174.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling approximately $39,000."
-24-02180.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple past-due debts but is working on a repayment plan.
-24-02185.h1,Financial,Chronic delinquent debt,0.90,"Applicant admitted to significant delinquent debts totaling about $40,000."
-24-02188.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-02193.h1,Financial,Unpaid taxes,0.90,Applicant failed to file taxes on time and owes significant back taxes.
-24-02201.h1,Drugs,Pattern of recurring use,0.90,Applicant has a long history of marijuana use and intends to continue.
-24-02211.h1,Drugs,Use during clearance process,0.90,Applicant admitted to drug use while in a sensitive position.
-24-02214.h1,Criminal Conduct,Violent conduct,0.90,"Applicant threatened wife, admitted to violent comments, history of domestic violence."
-24-02227.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while employed in a sensitive position.
-24-02228.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unpaid debts and ongoing collection actions.
-24-02229.h1,Drugs,Use during clearance process,0.90,Applicant used THC while holding a security clearance.
-24-02236.h1,Alcohol Consumption,Pattern of binge drinking,0.90,Applicant has extensive history of alcohol abuse and related criminal conduct.
-24-02238.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted extensive drug use over many years.
-24-02245.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling $39,726."
-24-02254.h1,Drugs,Use while possessing a security clearance,0.90,Applicant admitted to marijuana use while holding a security clearance.; invalid_label
-24-02263.h1,Drugs,Recent use within adjudicative window,0.95,Applicant admitted to recent and frequent illegal drug use.
-24-02274.h1,Drugs,Use after submitting SF-86,0.90,Applicant admitted to marijuana use after submitting security clearance applications.
-24-02280.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 10 delinquent accounts totaling about $62,940."
-24-02281.h1,Drugs,Use after submitting SF-86,0.95,Applicant used marijuana after submitting security clearance application.
-24-02290.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-24-02293.h1,Financial,Chronic delinquent debt,0.90,Applicant has ongoing financial issues and admitted multiple debts.
-24-02298.h1,Drugs,Pattern of recurring use,0.80,Applicant admitted past drug use but has shown commitment to abstinence.
-24-02299.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent accounts totaling approximately $12,500."
-24-02300.h1,Drugs,Failure to disclose use,0.90,Applicant repeatedly failed to disclose marijuana use on applications.
-24-02307.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after applying for security clearance.
-24-02317.h1,Drugs,Use after submitting SF-86,0.90,Applicant used marijuana after submitting SCA.
-24-02323.h1,Drugs,Pattern of recurring use,0.90,Applicant admitted to long-term marijuana use and sales.
-24-02334.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while applying for security clearance.
-24-02340.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant past-due debts totaling over $65,000."
-24-02353.h1,Criminal Conduct,Felony conviction,0.85,Applicant has a history of arrests and a felony charge related to domestic violence.
-24-02364.h1,Drugs,Failure to disclose use,0.90,Applicant admitted past marijuana use but omitted it on SF-86.
-24-02377.h1,Criminal Conduct,Felony conviction,0.90,Applicant has multiple felony charges and a recent guilty plea.
-24-02395.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and failed to provide documentation.
-24-02401.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling approximately $48,000."
-24-02408.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple delinquent debts and recent bankruptcy.
-24-02410.h1,Drugs,Failure to disclose use,0.90,Applicant omitted drug use on security application.
-24-02426.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant unpaid debts totaling approximately $53,000."
-24-02429.h1,Drugs,Pattern of recurring use,0.90,Applicant has a long history of marijuana use from 2017 to 2024.
-24-02434.h1,Drugs,Pattern of recurring use,0.90,Applicant has used marijuana regularly for over 14 years.
-24-02448.h1,Drugs,Use during clearance process,0.90,Applicant admitted marijuana use while in a sensitive position.
-24-02450.h1,Drugs,Failure to disclose use,0.90,Applicant omitted marijuana use in security clearance application.
-24-02469.h1,Foreign Influence,Close and continuing foreign contacts,0.90,Applicant has significant familial ties in Russia.
-24-02470.h1,Drugs,Use during clearance process,0.80,Applicant admitted past THC use during employment.
-24-02473.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant past-due debts and filed for bankruptcy.
-24-02485.h1,Financial,Chronic delinquent debt,0.90,"Applicant admitted to over $26,000 in delinquent debts."
-24-02486.h1,Technology Misuse / Information Security,Unauthorized access to systems,0.90,"Applicant manipulated IT systems without authorization, raising security concerns."
-24-02487.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $43,500."
-25-00026.h1,Criminal Conduct,Felony conviction,0.90,Applicant had felony charges for sexual assault as a teenager.
-25-00050.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has a history of mental health issues affecting reliability.
-25-00052.h1,Psychological Conditions,Condition affecting judgment or reliability,0.90,Applicant has unresolved mental health issues impacting judgment.
-25-00060.h1,Financial,Chronic delinquent debt,0.95,"Applicant has 34 unresolved debts, indicating chronic financial issues."
-25-00061.h1,Financial,Chronic delinquent debt,0.90,"Applicant has significant past-due debts totaling about $29,839."
-25-00067.h1,Drugs,Use during clearance process,0.90,Applicant used marijuana while holding a security clearance.
-25-00073.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file state and federal taxes on time.
-25-00080.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling about $31,000."
-25-00082.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling around $20,000."
-25-00087.h1,Drugs,Failure to disclose use,0.90,Applicant falsified drug use on SF-86 and during interviews.
-25-00088.h1,Drugs,Failure to disclose use,0.90,Applicant admitted to illegal drug use and omissions on e-QIP.
-25-00137.h1,Drugs,Pattern of recurring use,0.90,Applicant has a long history of marijuana use from 2013 to 2024.
-25-00139.h1,Drugs,Use of federally illegal substances despite state legality,0.90,Applicant admitted to illegal drug use despite state legality.
-25-00147.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved delinquent debts post-bankruptcy.
-25-00161.h1,Financial,Unpaid taxes,0.90,Applicant failed to file multiple years of tax returns.
-25-00169.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling about $18,500."
-25-00176.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent debts totaling over $61,000."
-25-00182.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 18 delinquent accounts totaling about $35,500."
-25-00208.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved debts and unpaid taxes.
-25-00227.h1,Financial,Chronic delinquent debt,0.90,Applicant has unresolved charged-off car loan and past delinquent accounts.
-25-00231.h1,Financial,Chronic delinquent debt,0.90,"Applicant has 17 delinquent accounts totaling ~$33,000."
-25-00241.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple delinquent debts totaling over $52,000."
-25-00242.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved debts totaling over $18,000."
-25-00252.h1,Financial,Chronic delinquent debt,0.90,"Applicant has three unpaid debts totaling about $34,000."
-25-00257.h1,Financial,Chronic delinquent debt,0.90,Applicant has multiple unresolved delinquent debts.
-25-00263.h1,Drugs,Use during clearance process,0.90,Applicant admitted to past marijuana use but ceased upon realizing clearance implications.
-25-00281.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to file federal and state tax returns for multiple years.
-25-00284.h1,Foreign Influence,Financial ties to foreign persons or entities,0.90,Applicant has family in India and financial support obligations.
-25-00336.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple unresolved delinquent accounts totaling over $123,000."
-25-00339.h1,Financial,Failure to file required financial disclosures,0.90,Applicant failed to timely file federal and state tax returns.
-25-00376.h1,Financial,Chronic delinquent debt,0.90,Applicant has significant unpaid debts and failed to mitigate concerns.
-25-00397.h1,Drugs,Use after submitting SF-86,0.90,"Applicant used marijuana after declaring he wouldn't, while holding a clearance."
-25-00492.h1,Financial,Chronic delinquent debt,0.90,"Applicant has multiple debts and judgments, indicating financial instability."
-25-00590.h1,Drugs,Pattern of recurring use,0.90,Applicant has significant history of illegal substance use.
-25-00704.h1,Alcohol Consumption,Pattern of binge drinking,0.85,Applicant has a history of excessive alcohol use and treatment.
+case_id,category_level_1,category_level_2,notes,insights
+20-03078.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for multiple years.,
+20-03310.h1,Financial,Unpaid taxes,Applicant failed to file and pay 2018 federal income taxes.,
+21-02538.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of severe mental health issues impacting reliability.,
+22-00005.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for 2020 and 2021.,
+22-00010.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has a DWI charge and multiple criminal offenses.; level1_corrected,
+22-00243.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has significant ties and financial support to family in Djibouti.,
+22-00396.h2,Alcohol Consumption,DUI or DWI incidents,Applicant had a DUI incident in 2020 but has not reoffended.,
+22-00468.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has a history of excessive alcohol use and related treatment.,
+22-00761.h2,Criminal Conduct,Misdemeanor pattern,Applicant has multiple misdemeanor arrests for domestic violence.,
+22-00842.h1,Criminal Conduct,Felony conviction,Applicant has a history of serious criminal charges including child endangerment.,
+22-00912.h1,Financial,Unpaid taxes,Applicant has unresolved tax returns and delinquent debts.,
+22-01200.h1,Criminal Conduct,Felony conviction,Applicant viewed child pornography and falsified information during interviews.,
+22-01359.h1,Drugs,Distribution or intent to distribute,Applicant involved in multiple drug distribution incidents.,
+22-01640.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of bipolar disorder and anxiety impacting reliability.,
+22-01745.h1,Financial,Chronic delinquent debt,Applicant has multiple charged-off debts and bankruptcy issues.,
+22-01864.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and delinquent accounts.,
+22-01865.h1,Drugs,Pattern of recurring use,Applicant has a long history of marijuana use and cultivation.,
+22-01925.h1,Financial,Unpaid taxes,Applicant has unpaid federal and state taxes from 2017.,
+22-02129.h1,Personal Conduct,False statements on SF-86,Applicant lied about foreign contacts and money transfer during interviews.,
+22-02395.h1,Drugs,Pattern of recurring use,Applicant had a history of drug use from age 17 to 22 with some relapses.,
+22-02560.h1,Drugs,Failure to disclose use,Applicant failed to disclose drug use on multiple security clearance applications.,
+22-02575.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DWI charges and a history of alcohol-related offenses.; level1_corrected,
+22-02603.h1,Foreign Influence,Immediate family members who are foreign nationals,"Applicant's parents are Taiwanese citizens, raising security concerns.",
+22-02626.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $68,000.",
+23-00129.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of Major Depressive Disorder affecting reliability.,
+23-00198.h1,Drugs,Pattern of recurring use,Applicant had a history of Oxycodone addiction and recent use.,
+23-00241.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $247,000.",
+23-00256.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $65,000.",
+23-00302.h1,Personal Conduct,False statements on SF-86,Applicant made false claims about employment and foreign travel.,
+23-00303.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has a history of DUI incidents and alcohol misuse.,
+23-00361.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple drug uses over several years.,
+23-00362.h1,Personal Conduct,Pattern of dishonesty,Applicant engaged in repeated dishonesty regarding his actions.,
+23-00444.h1,Foreign Influence,Close and continuing foreign contacts,"Applicant has in-laws in Thailand, but limited discussions about work.",
+23-00525.h1,Technology Misuse / Information Security,Unauthorized access to systems,"Applicant installed unauthorized browser, leading to security concerns.",
+23-00589.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling $77,436.",
+23-00605.h1,Financial,Chronic delinquent debt,Applicant has significant delinquent debts and failed to disclose them.,
+23-00642.h1,Financial,Chronic delinquent debt,Applicant has 12 delinquent debts linked to financial mismanagement.,
+23-00671.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts exceeding $35,000.",
+23-00673.h1,Financial,Chronic delinquent debt,Applicant admitted to multiple delinquent debts.,
+23-00723.h1,Financial,Chronic delinquent debt,Applicant has significant unpaid student loans and unresolved financial issues.,
+23-00729.h1,Personal Conduct,False statements on SF-86,Applicant falsified reports during background investigations.,
+23-00740.h1,Criminal Conduct,Misdemeanor pattern,Applicant admitted to multiple thefts and received probation.,
+23-00788.h1,Financial,Chronic delinquent debt,"Applicant has $80,000 in delinquent debt and failed to show progress in resolving it.",
+23-00935.h1,Foreign Influence,Close and continuing foreign contacts,Applicant maintained intimate relationships and financial support to foreign nationals.,
+23-01001.h1,Technology Misuse / Information Security,Mishandling classified or sensitive data,Applicant downloaded sensitive data to a personal thumb drive.,
+23-01037.h1,Criminal Conduct,Misdemeanor pattern,Applicant admitted to multiple shoplifting incidents and was convicted.,
+23-01069.h1,Financial,Chronic delinquent debt,"Applicant has multiple accounts in collections totaling over $30,000.",
+23-01070.h1,Financial,Chronic delinquent debt,Applicant has significant unpaid taxes and multiple delinquent accounts.,
+23-01131.h1,Financial,Unpaid taxes,Applicant failed to file federal and state tax returns for multiple years.,
+23-01135.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and bankruptcy filings.,
+23-01143.h1,Drugs,Use during clearance process,Applicant used cocaine while holding a security clearance.,
+23-01144.h1,Financial,Chronic delinquent debt,Applicant had multiple debts charged off but has since resolved them.,
+23-01146.h1,Financial,Chronic delinquent debt,"Applicant has unresolved debts exceeding $19,000.",
+23-01202.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+23-01204.h1,Drugs,Use during clearance process,Applicant admitted to marijuana use while holding a security clearance.,
+23-01257.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+23-01266.h1,Financial,Unpaid taxes,Applicant has significant unpaid federal and state taxes.,
+23-01277.h1,Financial,Gambling-related losses,Applicant has significant gambling losses impacting financial stability.,
+23-01292.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of mental health issues impacting reliability.,
+23-01303.h2,Financial,Unpaid taxes,Applicant has significant past-due tax debts and is making payments.,
+23-01393.h1,Financial,Failure to file required financial disclosures,Applicant failed to file federal and state tax returns for 2021 and 2022.,
+23-01403.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+23-01439.h1,Drugs,Use during clearance process,Applicant disclosed past drug use and sought treatment.,
+23-01442.h1,Foreign Influence,Close and continuing foreign contacts,Applicant involved with foreign company and attempted to access classified info.,
+23-01448.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $134,000.",
+23-01450.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant financially supports a foreign national girlfriend.,
+23-01457.h1,Financial,Chronic delinquent debt,Applicant has unresolved debts and a history of late tax filings.,
+23-01462.h1,Drugs,Use after submitting SF-86,Applicant admitted ongoing marijuana use after submitting clearance application.,
+23-01471.h1,Financial,Bankruptcy with aggravating factors,Applicant has multiple bankruptcies and ongoing financial issues.,
+23-01472.h1,Financial,Unpaid taxes,Applicant has multiple delinquent federal and state tax issues.,
+23-01526.h1,Financial,Unpaid taxes,Applicant failed to file federal and state tax returns for 2023.,
+23-01548.h1,Financial,Chronic delinquent debt,"Applicant has 18 delinquent debts totaling $30,348.",
+23-01584.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant has family in Taiwan with significant business interests.,
+23-01591.h1,Financial,Unpaid taxes,Applicant has significant unpaid federal and state tax debts.,
+23-01593.h1,Personal Conduct,False statements on SF-86,Applicant allegedly falsified facts during interviews.,
+23-01595.h1,Drugs,Use during clearance process,Applicant used marijuana and psychedelic mushrooms while holding a security clearance.,
+23-01596.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has a history of multiple DUIs and continues to drink despite treatment.,
+23-01614.h2,Financial,Unpaid taxes,Applicant has significant unpaid federal income taxes.,
+23-01691.h1,Drugs,Use during clearance process,Applicant admitted to using anabolic steroids and shipping them illegally.,
+23-01698.h1,Drugs,Use after submitting SF-86,Applicant admitted to marijuana use while holding a security clearance.,
+23-01716.h1,Personal Conduct,False statements on SF-86,Applicant made false statements regarding debts and prior incidents.,
+23-01723.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting her security clearance application.,
+23-01744.h1,Financial,Failure to file required financial disclosures,Applicant failed to timely file tax returns for multiple years.,
+23-01745.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $45,000.",
+23-01787.h1,Drugs,Use during clearance process,Applicant used illegal drugs while holding a security clearance.,
+23-01795.h1,Drugs,Use during clearance process,Applicant used marijuana from 2016 to 2022 but has since abstained.,
+23-01853.h1,Alcohol Consumption,Pattern of binge drinking,Applicant had a history of alcohol abuse but has maintained sobriety for three years.,
+23-01862.h1,Drugs,Use during clearance process,Applicant used THC during the clearance process despite legal implications.,
+23-01949.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and payment plans.,
+23-02025.h1,Criminal Conduct,Felony conviction,Applicant has a felony conviction for theft of government property.,
+23-02029.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+23-02036.h1,Financial,Unpaid taxes,Applicant has significant unpaid federal and state taxes.,
+23-02036.h2,Financial,Unpaid taxes,Applicant has significant unpaid federal and state taxes.,
+23-02038.h1,Psychological Conditions,Condition affecting judgment or reliability,"Applicant has major depressive disorder and anxiety, affecting reliability.",
+23-02076.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $8,470.",
+23-02086.h1,Alcohol Consumption,Failure to disclose treatment or incidents,Applicant admitted to alcohol dependence and failed to follow treatment advice.,
+23-02087.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI incidents and a history of alcohol-related issues.,
+23-02090.h1,Criminal Conduct,Felony conviction,Applicant has multiple arrests and serious allegations of sexual assault.,
+23-02146.h1,Financial,Failure to file required financial disclosures,Applicant failed to file taxes for multiple years.,
+23-02168.h1,Drugs,Use during clearance process,Applicant admitted marijuana use while holding a security clearance.,
+23-02175.h1,Drugs,Failure to disclose use,Applicant failed to disclose cocaine and marijuana use in security documents.,
+23-02177.h1,Financial,Chronic delinquent debt,Applicant had significant financial issues but is resolving debts.,
+23-02201.h1,Financial,Chronic delinquent debt,Applicant has significant unpaid federal and state taxes.,
+23-02225.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $55,000.",
+23-02228.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $17,000.",
+23-02231.h1,Financial,Chronic delinquent debt,Applicant has a long history of financial problems and multiple delinquent debts.,
+23-02234.h1,Drugs,Failure to disclose use,Applicant admitted past marijuana use but failed to disclose it on SCA.,
+23-02239.h1,Drugs,Pattern of recurring use,"Applicant used illegal drugs frequently, including while holding a clearance.",
+23-02241.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI convictions and a history of alcohol misuse.,
+23-02249.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has undisclosed family ties and business with foreign nationals.,
+23-02250.h1,Drugs,Use during clearance process,Applicant admitted to past illegal drug use during clearance process.,
+23-02260.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI incidents and failed to disclose one.,
+23-02263.h1,Foreign Influence,Close and continuing foreign contacts,"Applicant has family in Afghanistan and communicates regularly, raising influence concerns.",
+23-02323.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use on security clearance application.,
+23-02335.h1,Personal Conduct,Pattern of dishonesty,Applicant falsified information on security clearance application.; level1_corrected,
+23-02337.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $26,000.",
+23-02354.h1,Drugs,Use during clearance process,Applicant admitted past marijuana use but claims no intent to use again.,
+23-02357.h1,Financial,Chronic delinquent debt,"Applicant has multiple unpaid debts totaling approximately $59,000.",
+23-02361.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use in SF-86.,
+23-02370.h1,Financial,Chronic delinquent debt,"Applicant has over $74,000 in unresolved delinquent debts.",
+23-02371.h1,Financial,Chronic delinquent debt,Applicant has multiple unpaid debts and unfiled tax returns.,
+23-02387.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and financial issues.,
+23-02402.h2,Drugs,Pattern of recurring use,Applicant admitted to multiple drug uses over several years.,
+23-02402.h3,Drugs,Pattern of recurring use,Applicant admitted to past drug use and selling prescription medication.,
+23-02407.h1,Personal Conduct,False statements on SF-86,Applicant falsified information on security clearance application.,
+23-02412.h1,Financial,Unpaid taxes,Applicant failed to timely file federal and state tax returns.,
+23-02462.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+23-02490.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant diagnosed with paraphilic disorder affecting judgment.,
+23-02507.h1,Financial,Unpaid taxes,Applicant failed to file federal and state tax returns as required.,
+23-02519.h1,Financial,Unpaid taxes,Applicant has multiple past-due federal and state taxes.,
+23-02540.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling $25,485.",
+23-02541.h1,Financial,Chronic delinquent debt,"Applicant has over $20,000 in delinquent debts and unpaid taxes.",
+23-02542.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $34,000.",
+23-02557.h1,Drugs,Recent use within adjudicative window,"Applicant used marijuana until Dec 2022, despite knowing it's illegal federally.",
+23-02569.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of mental health issues impacting reliability.,
+23-02570.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts exceeding $31,000.",
+23-02576.h1,Drugs,Failure to disclose use,Applicant admitted to multiple instances of failing to disclose marijuana use.,
+23-02577.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling over $36,000.",
+23-02580.h1,Financial,Chronic delinquent debt,"Applicant has 12 delinquent debts totaling approximately $154,000.",
+23-02591.h1,Drugs,Use after submitting SF-86,Applicant used illegal drugs after being granted security clearance.,
+23-02595.h1,Drugs,Recent use within adjudicative window,Applicant had past drug use while holding a security clearance.,
+23-02599.h1,Drugs,Use after submitting SF-86,Applicant used marijuana and Delta-8 after submitting SF-86 but has since abstained.,
+23-02609.h1,Criminal Conduct,Felony conviction,Applicant has a felony charge for child abuse and a history of related incidents.,
+23-02642.h1,Financial,Chronic delinquent debt,"Applicant has 14 delinquent debts totaling $68,954.",
+23-02657.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and unpaid taxes.,
+23-02659.h1,Personal Conduct,False statements on SF-86,"Applicant submitted false labor hours, leading to clearance suspension.",
+23-02663.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling over $100,000.",
+23-02666.h1,Drugs,Use during clearance process,Applicant admitted past marijuana use during clearance process.,
+23-02668.h1,Financial,Chronic delinquent debt,Applicant had multiple delinquent debts but is resolving them.,
+23-02694.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+23-02701.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $23,000.",
+23-02709.h1,Personal Conduct,False statements on SF-86,Applicant falsified information on security clearance application.,
+23-02711.h1,Financial,Chronic delinquent debt,"Applicant has multiple debts totaling over $35,310.",
+23-02713.h1,Criminal Conduct,Felony conviction,Applicant was charged with sexual assault but maintains innocence.,
+23-02715.h1,Criminal Conduct,Felony conviction,Applicant has multiple felony convictions and a history of violent conduct.,
+23-02716.h1,Drugs,Use during clearance process,Applicant used THC during military service and failed a drug test.,
+23-02802.h1,Financial,Chronic delinquent debt,Applicant has multiple bankruptcies and significant unpaid tax debts.,
+23-02804.h1,Drugs,Pattern of recurring use,Applicant admitted to past drug use and distribution.,
+23-02808.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple illegal drug uses over several years.,
+23-02820.h1,Drugs,Pattern of recurring use,Applicant has a history of drug use and related offenses.,
+23-02826.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has family ties in Taiwan and financial support to her father.,
+23-02830.h1,Drugs,Pattern of recurring use,Applicant has a history of illegal drug use but has shown intent to abstain.,
+23-02832.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling around $47,000.",
+23-02838.h1,Personal Conduct,False statements on SF-86,Applicant denied prior employment misconduct and eligibility for rehire.,
+23-02855.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling $24,575.",
+23-02872.h1,Drugs,Failure to disclose use,Applicant admitted past marijuana use and failed to disclose it on security forms.,
+23-02888.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+23-02889.h1,Financial,Unpaid taxes,Applicant has significant unpaid federal income taxes.,
+23-02891.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent drug use but has shown intent to reform.,
+23-02894.h1,Drugs,Use during clearance process,Applicant tested positive for marijuana during the clearance process.,
+23-02896.h1,Drugs,Failure to disclose use,Applicant failed to disclose past marijuana use and related arrests.,
+23-02900.h1,Financial,Failure to file required financial disclosures,"Applicant has not filed tax returns since 2018, indicating financial irresponsibility.",
+23-02903.h1,Financial,Chronic delinquent debt,"Applicant has many unresolved debts totaling $27,686.",
+23-02904.h1,Alcohol Consumption,DUI or DWI incidents,"Applicant pled guilty to DUI, raising security concerns.; level1_corrected",
+23-02933.h1,Financial,Failure to file required financial disclosures,Applicant failed to file federal income tax returns for multiple years.,
+23-02963.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent illegal drug use and failed drug tests.,
+24-00001.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling approximately $35,700.",
+24-00002.h1,Financial,Failure to file required financial disclosures,Applicant failed to file income tax returns for multiple years.,
+24-00008.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $22,000.",
+24-00014.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after applying for security clearance.,
+24-00024.h1,Drugs,Pattern of recurring use,Applicant has a history of severe alcohol and drug use.,
+24-00026.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and failed to disclose them.,
+24-00027.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of bipolar disorder and major depressive disorder.,
+24-00030.h1,Financial,Chronic delinquent debt,Applicant has multiple unpaid debts and filed for bankruptcy.,
+24-00032.h1,Financial,Chronic delinquent debt,Applicant has unresolved debts and disputes regarding their status.,
+24-00060.h1,Financial,Chronic delinquent debt,Applicant has a history of financial problems and multiple delinquent debts.,
+24-00067.h1,Financial,Chronic delinquent debt,"Applicant admitted multiple debts, some remain unpaid.",
+24-00073.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant's PTSD affects judgment and reliability.,
+24-00076.h1,Financial,Chronic delinquent debt,"Applicant has significant unresolved delinquent debts totaling over $19,000.",
+24-00111.h1,Personal Conduct,False statements on SF-86,Applicant falsified background investigation reports and timecards.,
+24-00116.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use on security application.,
+24-00117.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant has family in Ethiopia and provides financial support.,
+24-00119.h1,Personal Conduct,False statements on SF-86,Applicant submitted fraudulent time records during employment.,
+24-00132.h1,Drugs,Use after submitting SF-86,Applicant admitted to marijuana use after submitting his SCA.,
+24-00139.h1,Criminal Conduct,Felony conviction,Applicant has a conviction for threat of violence.,
+24-00192.h1,Financial,Unpaid taxes,Applicant has unpaid federal taxes and failed to file returns on time.,
+24-00196.h1,Criminal Conduct,Felony conviction,Applicant admitted to multiple thefts and falsifying work hours.,
+24-00197.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple drug uses over several years.,
+24-00198.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $36,000.",
+24-00200.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-00204.h1,Drugs,Pattern of recurring use,Applicant has a history of drug abuse including marijuana and harder drugs.,
+24-00213.h1,Foreign Preference,Use of foreign passport,Applicant used Nigerian passport after becoming US citizen.,
+24-00220.h1,Drugs,Use of federally illegal substances despite state legality,Applicant used marijuana legally in state but not federally; ceased use after awareness.,
+24-00222.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-00224.h1,Financial,Chronic delinquent debt,"Applicant has numerous delinquent debts, including federal taxes.",
+24-00225.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $18,000.",
+24-00227.h1,Financial,Unpaid taxes,Applicant has significant past-due debt related to divorce.,
+24-00236.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use during clearance process.,
+24-00237.h1,Drugs,Use during clearance process,Applicant tested positive for THC during military service.,
+24-00245.h1,Drugs,Failure to disclose use,Applicant failed to disclose positive marijuana test.,
+24-00254.h1,Criminal Conduct,Felony conviction,Applicant has multiple felony convictions including armed robbery.,
+24-00256.h2,Drugs,Recent use within adjudicative window,Applicant admitted to recent marijuana use after prior abstinence.,
+24-00270.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling approximately $211,000.",
+24-00275.h1,Financial,Chronic delinquent debt,Applicant has significant unresolved debts and failed to address them.,
+24-00278.h1,Personal Conduct,False statements on SF-86,Applicant falsified security clearance applications.,
+24-00313.h1,Drugs,Failure to disclose use,Applicant denied illegal drug use despite admitting marijuana use.,
+24-00314.h1,Drugs,Recent use within adjudicative window,Applicant tested positive for cocaine during security clearance process.,
+24-00325.h1,Drugs,Recent use within adjudicative window,Applicant admitted to marijuana use until September 2023.,
+24-00330.h1,Financial,Failure to file required financial disclosures,"Applicant failed to file taxes from 2012 to 2020, raising trust issues.",
+24-00335.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling over $39,000.",
+24-00336.h1,Personal Conduct,Pattern of dishonesty,Applicant has multiple arrests and failures to comply with court orders.; level1_corrected,
+24-00337.h1,Drugs,Failure to disclose use,Applicant admitted to past marijuana use and falsified SCA.,
+24-00338.h1,Financial,Chronic delinquent debt,Applicant has significant delinquent debts and unpaid taxes.,
+24-00341.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has significant ties to a dual citizen of Russia.,
+24-00351.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent accounts totaling $19,991.",
+24-00361.h1,Financial,Chronic delinquent debt,"Applicant has over $100,000 in debts and failed to provide evidence of repayment efforts.",
+24-00362.h1,Criminal Conduct,Felony conviction,Applicant has a history of domestic violence and harassment convictions.,
+24-00363.h1,Drugs,Failure to disclose use,Applicant did not report marijuana use on SF-86 despite its legality in his state.,
+24-00366.h1,Financial,Unpaid taxes,Applicant failed to file tax returns for 2023 and 2024.,
+24-00368.h1,Drugs,Pattern of recurring use,Applicant has a long history of drug use and spending on illegal substances.,
+24-00375.h1,Technology Misuse / Information Security,Policy violations involving IT systems,Applicant accessed inappropriate content on work computer.,
+24-00378.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts but is actively addressing them.,
+24-00383.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI incidents and admitted to alcohol use disorder.,
+24-00391.h1,Financial,Chronic delinquent debt,Applicant has a history of delinquent debts but is making efforts to resolve them.,
+24-00392.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI convictions and is currently on probation.,
+24-00464.h1,Financial,Chronic delinquent debt,"Applicant has unresolved student loan debt of $48,693.",
+24-00468.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a sensitive position.,
+24-00478.h1,Drugs,Pattern of recurring use,"Applicant has a long history of drug use, including recent use.",
+24-00482.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting clearance application.,
+24-00490.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $16,700.",
+24-00491.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $37,000.",
+24-00500.h1,Financial,Unpaid taxes,Applicant failed to file multiple tax returns and has delinquent tax debts.,
+24-00502.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI convictions and alcohol-related incidents.,
+24-00503.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+24-00517.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $18,000.",
+24-00521.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and failed to address them.,
+24-00529.h1,Financial,Unpaid taxes,Applicant has unfiled federal and state tax returns and unpaid taxes.,
+24-00531.h1,Financial,Chronic delinquent debt,"Applicant has 19 delinquent accounts totaling approximately $39,000.",
+24-00538.h1,Personal Conduct,Prior employment misconduct,Applicant was terminated for incorrect time reporting.,
+24-00549.h1,Alcohol Consumption,DUI or DWI incidents,Applicant had multiple DUI incidents and admitted to alcohol use disorder.,
+24-00550.h1,Financial,Unpaid taxes,"Applicant has $10,000 in unpaid federal taxes.",
+24-00553.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and failed to file tax returns.,
+24-00561.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use on security application.,
+24-00563.h1,Drugs,Failure to disclose use,Applicant admitted to past marijuana use but failed to disclose citations.,
+24-00567.h1,Drugs,Use during clearance process,Applicant mitigated drug involvement concerns; disclosed use on application.,
+24-00577.h1,Financial,Chronic delinquent debt,"Applicant admitted multiple unresolved debts totaling over $48,000.",
+24-00598.h1,Drugs,Use after submitting SF-86,Applicant used multiple illegal substances after obtaining security clearance.,
+24-00600.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use but failed to disclose it in questionnaires.,
+24-00603.h1,Drugs,Pattern of recurring use,Applicant admitted to a long history of marijuana use.,
+24-00605.h1,Financial,Unpaid taxes,Applicant failed to file federal and state taxes for multiple years.,
+24-00606.h1,Drugs,Pattern of recurring use,Applicant admitted to frequent marijuana use and cultivation.,
+24-00611.h1,Financial,Unpaid taxes,Applicant failed to file taxes and has significant unpaid tax debt.,
+24-00613.h1,Financial,Unpaid taxes,Applicant has unpaid federal and state income taxes.,
+24-00614.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for multiple years.,
+24-00615.h1,Personal Conduct,False statements on SF-86,Applicant falsified SCA by omitting arrests and drug use.,
+24-00641.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has a history of severe alcohol use disorder and inconsistent abstinence.,
+24-00644.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-00647.h1,Financial,Unpaid taxes,Applicant has multiple unpaid federal and state taxes.,
+24-00650.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant's bipolar disorder and alcohol use disorder impair judgment.,
+24-00652.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and a history of bankruptcy.,
+24-00653.h1,Financial,Bankruptcy with aggravating factors,Applicant admitted to multiple bankruptcies and significant debts.,
+24-00658.h1,Financial,Failure to file required financial disclosures,Applicant failed to file federal and state tax returns from 2018 to 2022.,
+24-00659.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and unpaid taxes.,
+24-00666.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple drug uses over several years.,
+24-00694.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $225,000.",
+24-00705.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $31,000.",
+24-00743.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple illegal drug uses over several years.,
+24-00744.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-00747.h1,Financial,Chronic delinquent debt,Applicant has unresolved debts and disputes regarding financial obligations.,
+24-00750.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant has foreign family ties and potential property inheritance.,
+24-00773.h1,Financial,Failure to file required financial disclosures,"Applicant failed to file taxes for multiple years, indicating poor financial judgment.",
+24-00798.h1,Drugs,Use during clearance process,Applicant used illegal drugs while applying for clearance.,
+24-00802.h1,Criminal Conduct,Failure to disclose prior charges,Applicant misused company resources and was dishonest during the investigation.; level1_corrected,
+24-00808.h1,Financial,Chronic delinquent debt,"Applicant has multiple tax liens and debts totaling over $88,000.",
+24-00815.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and unpaid taxes.,
+24-00816.h1,Drugs,Recent use within adjudicative window,Applicant's illegal marijuana use raises security concerns.,
+24-00831.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-00832.h1,Personal Conduct,Prior employment misconduct,Applicant terminated for inappropriate conduct related to expense claims.,
+24-00833.h1,Drugs,Use after submitting SF-86,Applicant admitted ongoing marijuana use after SCA submission.,
+24-00839.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $14,000.",
+24-00844.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of schizophrenia and noncompliance with treatment.,
+24-00845.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and periods of unemployment.,
+24-00847.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has PTSD and other disorders affecting reliability.,
+24-00850.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant's relationship with foreign family raises security concerns.,
+24-00853.h1,Financial,Chronic delinquent debt,"Applicant has significant unpaid debts totaling over $34,822.",
+24-00854.h1,Financial,Unpaid taxes,Applicant has delinquent federal and state taxes.,
+24-00856.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use and failure to disclose on SCA.,
+24-00885.h1,Financial,Unpaid taxes,Applicant has multiple unpaid tax returns and significant tax debts.,
+24-00887.h1,Drugs,Failure to disclose use,Applicant falsified drug use on security clearance application.,
+24-00891.h1,Financial,Failure to file required financial disclosures,Applicant failed to file federal and state tax returns from 2018 to 2021.,
+24-00892.h1,Foreign Influence,Financial ties to foreign persons or entities,"Applicant has family ties and property in Iraq, raising foreign influence concerns.",
+24-00896.h1,Financial,Chronic delinquent debt,"Applicant has unresolved debts totaling approximately $33,933.",
+24-00901.h1,Financial,Unpaid taxes,"Applicant owes $25,000 in past-due federal taxes.",
+24-00902.h1,Financial,Chronic delinquent debt,Applicant has significant unresolved delinquent debts.,
+24-00904.h1,Drugs,Use of federally illegal substances despite state legality,Applicant used marijuana legally in state but federally illegal.,
+24-00905.h1,Drugs,Recent use within adjudicative window,Applicant admitted recent illegal drug use and failed to complete treatment.,
+24-00906.h1,Financial,Unpaid taxes,Applicant has significant unpaid federal and state taxes.,
+24-00907.h1,Drugs,Pattern of recurring use,Applicant has a history of illegal drug use and arrests.,
+24-00908.h1,Drugs,Use during clearance process,Applicant admitted to marijuana use until April 2023.,
+24-00913.h1,Drugs,Failure to disclose use,Applicant omitted past drug use in e-QIPs.,
+24-00913.h2,Drugs,Failure to disclose use,"Applicant omitted past drug use in e-QIPs, raising security concerns.",
+24-00914.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple drug uses over several years.,
+24-00914.h2,Drugs,Pattern of recurring use,Applicant has a history of multiple drug use over several years.,
+24-00923.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling approximately $68,000.",
+24-00924.h1,Financial,Chronic delinquent debt,"Applicant has $32,000 in delinquent debt and no progress on repayment.",
+24-00928.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DWI convictions and ongoing alcohol-related issues.,
+24-00934.h1,Financial,Failure to file required financial disclosures,Applicant failed to file multiple years of tax returns.,
+24-00941.h1,Financial,Failure to file required financial disclosures,Applicant failed to file state and federal tax returns for multiple years.,
+24-00944.h1,Drugs,Use after submitting SF-86,Applicant used psilocybin mushrooms after submitting the Questionnaire.,
+24-00946.h1,Financial,Chronic delinquent debt,"Applicant has significant unpaid debts exceeding $25,000.",
+24-00948.h1,Drugs,Failure to disclose use,Applicant failed to disclose drug use during security clearance process.,
+24-00954.h1,Drugs,Recent use within adjudicative window,Applicant admitted to THC use until January 2024.,
+24-00967.h1,Foreign Influence,Immediate family members who are foreign nationals,Applicant has ties to foreign nationals through family.,
+24-00968.h1,Drugs,Failure to disclose use,Applicant admitted to drug use but failed to disclose it in prior applications.,
+24-00972.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DWI arrests indicating a pattern of alcohol-related issues.,
+24-00973.h1,Drugs,Recent use within adjudicative window,"Applicant used marijuana and psychedelics recently, impacting clearance.",
+24-00976.h1,Financial,Unpaid taxes,Applicant has delinquent federal taxes and failed to file state returns.,
+24-00979.h1,Financial,Chronic delinquent debt,Applicant has significant past-due student loans and other debts.,
+24-00994.h1,Drugs,Failure to disclose use,Applicant denied marijuana use on security forms despite prior admissions.,
+24-00998.h1,Financial,Failure to file required financial disclosures,Applicant failed to timely file federal tax returns.,
+24-01001.h1,Drugs,Pattern of recurring use,"Applicant used marijuana frequently over 20 years, raising security concerns.",
+24-01004.h1,Drugs,Use after submitting SF-86,Applicant used marijuana and Adderall after submitting SF-86.,
+24-01005.h1,Drugs,Use during clearance process,Applicant admitted to marijuana use during employment at a dispensary.,
+24-01008.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $56,000.",
+24-01011.h1,Criminal Conduct,Felony conviction,Applicant has multiple felony convictions and arrests.,
+24-01012.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and unpaid taxes.,
+24-01019.h1,Drugs,Use after submitting SF-86,Applicant admitted illegal drug use and intends to continue.,
+24-01022.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use in security clearance application.,
+24-01023.h1,Drugs,Failure to disclose use,Applicant admitted to past marijuana use and falsified SCA.,
+24-01029.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for multiple years.,
+24-01030.h1,Drugs,Use of federally illegal substances despite state legality,"Applicant used medical marijuana, illegal federally, despite state legality.",
+24-01034.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent debts totaling over $21,000.",
+24-01035.h1,Financial,Chronic delinquent debt,Applicant has significant delinquent debt and failed to mitigate financial concerns.,
+24-01060.h1,Financial,Unpaid taxes,Applicant failed to file multiple tax returns and has delinquent debts.,
+24-01062.h1,Financial,Chronic delinquent debt,Applicant had significant tax debts and issues with IRS payments.,
+24-01064.h1,Drugs,Pattern of recurring use,Applicant has a history of marijuana use from 1998 to 2023.,
+24-01070.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $27,000.",
+24-01071.h1,Financial,Unpaid taxes,Applicant had unpaid taxes but is resolving them with IRS payments.,
+24-01075.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has a DWI conviction and history of alcohol-related issues.,
+24-01079.h1,Personal Conduct,Security violations in past roles,Applicant had multiple security violations related to handling classified info.,
+24-01087.h1,Personal Conduct,Pattern of dishonesty,Applicant admitted to sexual misconduct and failed to disclose details.,
+24-01091.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has significant ties to Syria and foreign family members.,
+24-01100.h1,Foreign Influence,Immediate family members who are foreign nationals,"Applicant has Jordanian parents and sister, raising foreign influence concerns.",
+24-01101.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use without disclosure.,
+24-01103.h1,Financial,Unpaid taxes,"Applicant failed to file taxes for multiple years, owes significant back taxes.",
+24-01106.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and a history of financial mismanagement.,
+24-01107.h1,Financial,Chronic delinquent debt,Applicant has significant unpaid federal and state taxes.,
+24-01112.h1,Financial,Chronic delinquent debt,"Applicant failed to resolve delinquent debts, impacting security clearance.",
+24-01113.h1,Criminal Conduct,Felony conviction,Applicant admitted to embezzlement and theft.,
+24-01114.h1,Drugs,Use after submitting SF-86,Applicant admitted THC use after SF-86 submission but has mitigated concerns.,
+24-01115.h1,Drugs,Pattern of recurring use,Applicant admitted to extensive drug use over many years.,
+24-01118.h1,Foreign Influence,Close and continuing foreign contacts,"Applicant has family in Iraq, including government employees.",
+24-01121.h1,Drugs,Failure to disclose use,Applicant falsified drug use on security clearance application.,
+24-01122.h1,Criminal Conduct,Felony conviction,Applicant convicted of felony sexual exploitation of a minor.,
+24-01127.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after being granted a security clearance.,
+24-01129.h1,Financial,Unpaid taxes,Applicant failed to file required tax returns and has delinquent taxes.,
+24-01134.h1,Personal Conduct,Omission of required information,Applicant had an extramarital affair not disclosed to his wife.,
+24-01137.h1,Financial,Unpaid taxes,Applicant failed to file federal tax returns and has delinquent state taxes.,
+24-01153.Revised.h1,Drugs,Use during clearance process,"Applicant used psilocybin while employed, impacting clearance.",
+24-01162.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent marijuana and psilocybin use.,
+24-01166.h1,Drugs,Recent use within adjudicative window,Applicant has a drug conviction from 2017.,
+24-01167.h1,Personal Conduct,False statements on SF-86,Applicant admitted to falsifying information on security clearance applications.,
+24-01168.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $34,000.",
+24-01170.h1,Personal Conduct,False statements on SF-86,Applicant falsified DUI charges on security clearance application.,
+24-01171.h1,Drugs,Failure to disclose use,Applicant admitted to past drug use but failed to disclose on SF-86.,
+24-01173.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $69,000.",
+24-01181.h1,Foreign Influence,Close and continuing foreign contacts,"Applicant has family ties in Iraq, raising foreign influence concerns.",
+24-01185.h1,Financial,Unpaid taxes,Applicant had late tax filings but mitigated concerns.,
+24-01187.h1,Financial,Unpaid taxes,"Applicant has a $31,861 federal tax lien.",
+24-01208.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for multiple years.,
+24-01210.h1,Drugs,Use during clearance process,Applicant used THC while employed in a sensitive position.,
+24-01218.h1,Drugs,Pattern of recurring use,Applicant has a long history of illegal drug use over 17 years.,
+24-01222.h1,Financial,Unpaid taxes,Applicant has unpaid taxes and filed for bankruptcy.,
+24-01225.h1,Drugs,Pattern of recurring use,Applicant had a history of illegal drug use but has shown intent to abstain.,
+24-01230.h1,Financial,Chronic delinquent debt,Applicant has multiple charged-off debts and ongoing collection actions.,
+24-01236.h1,Financial,Unpaid taxes,Applicant failed to file taxes for multiple years and has significant unpaid debts.,
+24-01249.h1,Financial,Failure to file required financial disclosures,Applicant failed to timely file tax returns but has since resolved issues.,
+24-01252.h1,Drugs,Failure to disclose use,Applicant falsely stated no illegal drug use on SF-86.,
+24-01255.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $30,000.",
+24-01257.h1,Financial,Chronic delinquent debt,"Applicant has two delinquent debts totaling $40,610.",
+24-01258.h1,Drugs,Pattern of recurring use,Applicant admitted to multiple illegal drug uses over several years.,
+24-01259.h1,Foreign Influence,Close and continuing foreign contacts,"Applicant has multiple family members in Kenya, raising foreign influence concerns.",
+24-01264.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $30,000.",
+24-01270.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DUI incidents and alcohol-related offenses.,
+24-01279.h1,Drugs,Failure to disclose use,Applicant falsified drug use on security forms.,
+24-01286.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling over $38,000.",
+24-01288.h1,Criminal Conduct,Felony conviction,Applicant has a felony robbery conviction and multiple arrests.,
+24-01289.h1,Drugs,Distribution or intent to distribute,Applicant sold ecstasy to an undercover officer.,
+24-01297.h1,Personal Conduct,False statements on SF-86,Applicant made false disclosures in security clearance questionnaire.,
+24-01302.h1,Personal Conduct,Pattern of dishonesty,Applicant engaged in dishonest conduct related to timekeeping.,
+24-01304.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has multiple DWI convictions and admitted ongoing excessive alcohol use.,
+24-01305.h1,Drugs,Use of federally illegal substances despite state legality,"Applicant used medical marijuana, which is illegal federally.",
+24-01306.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $31,000.",
+24-01307.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance applications.,
+24-01313.h1,Financial,Chronic delinquent debt,"Applicant has $54,000 in delinquent debt and no plans to resolve it.",
+24-01316.h1,Drugs,Failure to disclose use,Applicant failed to disclose past drug use on multiple forms.,
+24-01318.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling approximately $106,000.",
+24-01320.h1,Drugs,Use after submitting SF-86,Applicant used marijuana and mushrooms after submitting clearance forms.,
+24-01325.h1,Drugs,Pattern of recurring use,"Applicant admitted to long-term marijuana use, including while employed.",
+24-01326.h1,Drugs,Pattern of recurring use,Applicant admitted to ongoing drug use despite prior assurances.,
+24-01332.h1,Drugs,Recent use within adjudicative window,Applicant admitted to marijuana use during the adjudicative window.,
+24-01359.h1,Personal Conduct,Failure to disclose required information,Applicant did not report extortion incident to security officer.; invalid_label,
+24-01365.h1,Financial,Unpaid taxes,Applicant failed to file multiple tax returns and has delinquent tax debts.,
+24-01367.h1,Drugs,Use after submitting SF-86,Applicant admitted past drug use but has shown intent to abstain.,
+24-01389.h1,Drugs,Pattern of recurring use,Applicant has a long history of drug use and multiple arrests.,
+24-01390.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant has significant financial support ties to family in Moldova and Ukraine.,
+24-01392.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts exceeding $16,000.",
+24-01400.h1,Drugs,Failure to disclose use,Applicant omitted past drug use and rehabilitation in e-QIP.,
+24-01402.h1,Drugs,Pattern of recurring use,Applicant has a history of marijuana use from 2009 to 2023.,
+24-01403.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and admitted to them.,
+24-01410.h1,Personal Conduct,False statements on SF-86,Applicant falsified information on security clearance application.,
+24-01412.h1,Drugs,Pattern of recurring use,Applicant admitted to frequent marijuana and inhalant use.,
+24-01413.h1,Drugs,Recent use within adjudicative window,Applicant admitted ongoing marijuana use while holding a sensitive position.,
+24-01417.h1,Drugs,Pattern of recurring use,Applicant has a history of using multiple illegal drugs over several years.,
+24-01418.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $36,000.",
+24-01421.h1,Drugs,Use after submitting SF-86,Applicant admitted to marijuana use after submitting her SCA.,
+24-01425.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved delinquent debts.,
+24-01429.h1,Financial,Chronic delinquent debt,"Applicant has six delinquent debts totaling $11,262.",
+24-01457.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent debts totaling over $35,000.",
+24-01458.h1,Financial,Chronic delinquent debt,"Applicant has over $35,000 in past-due debts and has not addressed them.",
+24-01461.h1,Financial,Chronic delinquent debt,Applicant has multiple debts and failed to resolve them.,
+24-01467.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-01471.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent debts totaling $46,411.",
+24-01474.h1,Financial,Chronic delinquent debt,Applicant has multiple bankruptcies and unresolved debts.,
+24-01515.h1,Drugs,Use after submitting SF-86,Applicant used marijuana briefly in 2023 after a long abstinence.,
+24-01516.h1,Drugs,Pattern of recurring use,Applicant has a history of multiple illegal drug uses over several years.,
+24-01523.h1,Financial,Chronic delinquent debt,Applicant admitted to significant credit card debt and failed to resolve it.,
+24-01529.h1,Financial,Chronic delinquent debt,Applicant has a history of delinquent debts but is taking steps to resolve them.,
+24-01532.h1,Financial,Chronic delinquent debt,Applicant has multiple bankruptcies and unresolved debts.,
+24-01537.h1,Drugs,Use after submitting SF-86,Applicant admitted to marijuana use and intends to continue despite federal law.,
+24-01542.h1,Personal Conduct,Prior employment misconduct,Applicant terminated for unprofessional behavior and misconduct.,
+24-01543.h1,Drugs,Recent use within adjudicative window,Applicant used marijuana recently and has a history of illegal drug use.,
+24-01544.h1,Financial,Chronic delinquent debt,"Applicant has significant past-due debts totaling about $24,000.",
+24-01547.h1,Personal Conduct,False statements on SF-86,Applicant falsified security logs and admitted to backdating them.,
+24-01549.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent accounts totaling over $73,000.",
+24-01550.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+24-01553.h1,Financial,Chronic delinquent debt,"Applicant has a charged-off debt of $31,559.",
+24-01558.h1,Financial,Chronic delinquent debt,"Applicant has unresolved debts exceeding $38,000.",
+24-01560.h1,Drugs,Use during clearance process,Applicant admitted marijuana use while holding a security clearance.,
+24-01563.h1,Financial,Chronic delinquent debt,"Applicant has over $36,000 in unresolved delinquent debts.",
+24-01566.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $95,877.",
+24-01570.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts exceeding $15,000.",
+24-01572.h1,Drugs,Recent use within adjudicative window,"Applicant used marijuana until December 2024, raising concerns.",
+24-01576.h1,Drugs,Use after submitting SF-86,Applicant admitted THC use after submitting clearance application.,
+24-01584.h1,Financial,Bankruptcy with aggravating factors,Applicant has filed multiple bankruptcies and has ongoing financial issues.,
+24-01586.h1,Criminal Conduct,Failure to disclose prior charges,Applicant had issues with handling protected information.; level1_corrected,
+24-01588.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use but did not disclose it on SF-86.,
+24-01602.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting her security clearance application.,
+24-01603.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling about $48,000.",
+24-01606.h1,Drugs,Pattern of recurring use,Applicant used multiple illegal substances over several years.,
+24-01609.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and ongoing collection actions.,
+24-01610.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and a history of financial issues.,
+24-01612.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use and falsified SCA responses.,
+24-01615.h1,Financial,Chronic delinquent debt,"Applicant has over $77,000 in unresolved delinquent debts.",
+24-01618.h1,Financial,Chronic delinquent debt,Applicant has significant past-due debts primarily from former spouse.,
+24-01632.h1,Financial,Unpaid taxes,Applicant failed to file federal and state income tax returns.,
+24-01635.h1,Financial,Chronic delinquent debt,Applicant had significant debts due to divorce and acted to resolve them.,
+24-01636.h1,Financial,Unpaid taxes,Applicant has multiple delinquent federal income tax debts.,
+24-01638.h1,Drugs,Failure to disclose use,Applicant admitted to THC use and attempted urine sample adulteration.,
+24-01639.h1,Financial,Unpaid taxes,Applicant has significant delinquent federal income taxes.,
+24-01655.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling approximately $23,000.",
+24-01659.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and ongoing repayment plans.,
+24-01670.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent marijuana and psilocybin use.,
+24-01671.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and failed to file tax returns.,
+24-01685.h1,Drugs,Failure to disclose use,Applicant failed to disclose marijuana use on security clearance application.,
+24-01706.h1,Drugs,Distribution or intent to distribute,"Applicant supports son's marijuana cultivation, violating federal law.",
+24-01713.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use but failed to disclose it.,
+24-01716.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $23,000.",
+24-01718.h1,Drugs,Recent use within adjudicative window,Applicant used marijuana frequently until September 2024.,
+24-01730.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $16,000.",
+24-01734.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling $11,472.",
+24-01746.h1,Drugs,Use after submitting SF-86,Applicant admitted past marijuana use and reported an unknowing incident.,
+24-01749.h1,Drugs,Recent use within adjudicative window,Applicant has a history of opioid and benzodiazepine misuse.,
+24-01767.h1,Financial,Unpaid taxes,"Applicant has delinquent federal and state taxes totaling over $15,000.",
+24-01768.h1,Financial,Chronic delinquent debt,Applicant has multiple charged-off accounts and debts.,
+24-01769.h1,Drugs,Use during clearance process,Applicant admitted to ongoing marijuana use despite federal illegality.,
+24-01775.h1,Financial,Chronic delinquent debt,"Applicant has nine delinquent debts exceeding $45,000.",
+24-01778.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $57,000.",
+24-01780.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and filed for bankruptcy.,
+24-01784.h1,Drugs,Recent use within adjudicative window,Applicant used marijuana during the clearance process.,
+24-01787.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after clearance granted.,
+24-01789.h1,Financial,Chronic delinquent debt,Applicant has multiple unpaid debts and a judgment against him.,
+24-01801.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent marijuana use despite clearance process.,
+24-01841.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has a history of multiple DUIs and ongoing alcohol use concerns.,
+24-01844.h1,Drugs,Pattern of recurring use,Applicant admitted to extensive illegal drug use and distribution.,
+24-01854.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-01855.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance but has shown intent to abstain.,
+24-01861.h1,Personal Conduct,False statements on SF-86,Applicant engaged in illegal sexual conduct and failed to disclose it.,
+24-01866.h1,Drugs,Use during clearance process,Applicant admitted to using marijuana while holding a security clearance.,
+24-01872 .h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $12,000.",
+24-01894.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-01907.h1,Financial,Failure to file required financial disclosures,Applicant failed to timely file tax returns but has since resolved issues.,
+24-01921.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has a history of DUI and ongoing alcohol consumption.,
+24-01925.h1,Drugs,Pattern of recurring use,Applicant admitted to frequent marijuana use from 2012 to 2022.,
+24-01933.h1,Financial,Chronic delinquent debt,Applicant has a history of delinquent debts but is resolving them.,
+24-01935.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-01944.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $44,807.",
+24-01948.h1,Financial,Chronic delinquent debt,"Applicant has 23 delinquent debts totaling $48,631.",
+24-01956.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling about $31,000.",
+24-01962.h1,Alcohol Consumption,DUI or DWI incidents,Applicant has a history of DUI incidents and alcohol-related conduct.,
+24-01967.h1,Personal Conduct,False statements on SF-86,Applicant failed to disclose DUI and drug use on security application.,
+24-01971.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved delinquent accounts.,
+24-01980.h1,Drugs,Use of federally illegal substances despite state legality,"Applicant invested in a THC-related business, violating federal law.",
+24-01982.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $31,000.",
+24-01985.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and a history of bankruptcy.,
+24-01994.h1,Financial,Chronic delinquent debt,"Applicant has significant delinquent debts totaling over $62,000.",
+24-01996.h1,Financial,Chronic delinquent debt,Applicant has multiple debts and is enrolled in a debt relief program.,
+24-02030.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling $49,549.",
+24-02034.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after obtaining a security clearance.,
+24-02035.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $23,000.",
+24-02049.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts exceeding $25,000.",
+24-02051.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling over $24,000.",
+24-02052.h1,Financial,Unpaid taxes,Applicant has a tax lien and admitted failure to file taxes.,
+24-02056.h1,Financial,Chronic delinquent debt,"Applicant has unresolved debts exceeding $68,000.",
+24-02059.h1,Foreign Influence,Immediate family members who are foreign nationals,"Applicant has family members in India, raising foreign influence concerns.",
+24-02064.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $89,000.",
+24-02074.h1,Financial,Unpaid taxes,Applicant failed to file Federal income tax returns for 2023.,
+24-02076.h1,Financial,Chronic delinquent debt,Applicant has multiple charged off debts and no mitigation evidence.,
+24-02077.h1,Drugs,Use while holding a security clearance,Applicant used marijuana in July 2024 while holding a security clearance.; invalid_label,
+24-02080.h1,Financial,Unpaid taxes,Applicant has significant unpaid taxes and delinquent debts.,
+24-02085.h1,Personal Conduct,False statements on SF-86,Applicant falsified employment history and anger management referral.,
+24-02094.h1,Financial,Bankruptcy with aggravating factors,Applicant filed for Chapter 13 bankruptcy amid ongoing financial issues.,
+24-02098.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and a recent bankruptcy.,
+24-02101.h1,Drugs,Use after submitting SF-86,Applicant used marijuana while holding a sensitive position.,
+24-02104.h1,Financial,Unpaid taxes,Applicant failed to timely file federal income tax returns for multiple years.,
+24-02106.h1,Drugs,Failure to disclose use,Applicant admitted to marijuana use and failed to disclose it on SF-86.,
+24-02140.h1,Financial,Chronic delinquent debt,"Applicant has a charged-off credit card debt of $24,348.",
+24-02143.h1,Drugs,Pattern of recurring use,Applicant used marijuana daily for over 10 years and other drugs.,
+24-02155.h1,Drugs,Recent use within adjudicative window,Applicant used marijuana recently while holding a sensitive position.,
+24-02156.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $24,000.",
+24-02161.h1,Financial,Unpaid taxes,Applicant admitted to failing to pay federal and state taxes.,
+24-02169.h1,Financial,Unpaid taxes,Applicant has delinquent federal tax debts for 2017 and 2019.,
+24-02171.h1,Financial,Failure to file required financial disclosures,Applicant failed to file tax returns for multiple years.,
+24-02172.h1,Financial,Failure to file required financial disclosures,Applicant failed to file multiple years of tax returns.,
+24-02174.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling approximately $39,000.",
+24-02180.h1,Financial,Chronic delinquent debt,Applicant has multiple past-due debts but is working on a repayment plan.,
+24-02185.h1,Financial,Chronic delinquent debt,"Applicant admitted to significant delinquent debts totaling about $40,000.",
+24-02188.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-02193.h1,Financial,Unpaid taxes,Applicant failed to file taxes on time and owes significant back taxes.,
+24-02201.h1,Drugs,Pattern of recurring use,Applicant has a long history of marijuana use and intends to continue.,
+24-02211.h1,Drugs,Use during clearance process,Applicant admitted to drug use while in a sensitive position.,
+24-02214.h1,Criminal Conduct,Violent conduct,"Applicant threatened wife, admitted to violent comments, history of domestic violence.",
+24-02227.h1,Drugs,Use during clearance process,Applicant used marijuana while employed in a sensitive position.,
+24-02228.h1,Financial,Chronic delinquent debt,Applicant has multiple unpaid debts and ongoing collection actions.,
+24-02229.h1,Drugs,Use during clearance process,Applicant used THC while holding a security clearance.,
+24-02236.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has extensive history of alcohol abuse and related criminal conduct.,
+24-02238.h1,Drugs,Pattern of recurring use,Applicant admitted extensive drug use over many years.,
+24-02245.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling $39,726.",
+24-02254.h1,Drugs,Use while possessing a security clearance,Applicant admitted to marijuana use while holding a security clearance.; invalid_label,
+24-02263.h1,Drugs,Recent use within adjudicative window,Applicant admitted to recent and frequent illegal drug use.,
+24-02274.h1,Drugs,Use after submitting SF-86,Applicant admitted to marijuana use after submitting security clearance applications.,
+24-02280.h1,Financial,Chronic delinquent debt,"Applicant has 10 delinquent accounts totaling about $62,940.",
+24-02281.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting security clearance application.,
+24-02290.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+24-02293.h1,Financial,Chronic delinquent debt,Applicant has ongoing financial issues and admitted multiple debts.,
+24-02298.h1,Drugs,Pattern of recurring use,Applicant admitted past drug use but has shown commitment to abstinence.,
+24-02299.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent accounts totaling approximately $12,500.",
+24-02300.h1,Drugs,Failure to disclose use,Applicant repeatedly failed to disclose marijuana use on applications.,
+24-02307.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after applying for security clearance.,
+24-02317.h1,Drugs,Use after submitting SF-86,Applicant used marijuana after submitting SCA.,
+24-02323.h1,Drugs,Pattern of recurring use,Applicant admitted to long-term marijuana use and sales.,
+24-02334.h1,Drugs,Use during clearance process,Applicant used marijuana while applying for security clearance.,
+24-02340.h1,Financial,Chronic delinquent debt,"Applicant has significant past-due debts totaling over $65,000.",
+24-02353.h1,Criminal Conduct,Felony conviction,Applicant has a history of arrests and a felony charge related to domestic violence.,
+24-02364.h1,Drugs,Failure to disclose use,Applicant admitted past marijuana use but omitted it on SF-86.,
+24-02377.h1,Criminal Conduct,Felony conviction,Applicant has multiple felony charges and a recent guilty plea.,
+24-02395.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and failed to provide documentation.,
+24-02401.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling approximately $48,000.",
+24-02408.h1,Financial,Chronic delinquent debt,Applicant has multiple delinquent debts and recent bankruptcy.,
+24-02410.h1,Drugs,Failure to disclose use,Applicant omitted drug use on security application.,
+24-02426.h1,Financial,Chronic delinquent debt,"Applicant has significant unpaid debts totaling approximately $53,000.",
+24-02429.h1,Drugs,Pattern of recurring use,Applicant has a long history of marijuana use from 2017 to 2024.,
+24-02434.h1,Drugs,Pattern of recurring use,Applicant has used marijuana regularly for over 14 years.,
+24-02448.h1,Drugs,Use during clearance process,Applicant admitted marijuana use while in a sensitive position.,
+24-02450.h1,Drugs,Failure to disclose use,Applicant omitted marijuana use in security clearance application.,
+24-02469.h1,Foreign Influence,Close and continuing foreign contacts,Applicant has significant familial ties in Russia.,
+24-02470.h1,Drugs,Use during clearance process,Applicant admitted past THC use during employment.,
+24-02473.h1,Financial,Chronic delinquent debt,Applicant has significant past-due debts and filed for bankruptcy.,
+24-02485.h1,Financial,Chronic delinquent debt,"Applicant admitted to over $26,000 in delinquent debts.",
+24-02486.h1,Technology Misuse / Information Security,Unauthorized access to systems,"Applicant manipulated IT systems without authorization, raising security concerns.",
+24-02487.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $43,500.",
+25-00026.h1,Criminal Conduct,Felony conviction,Applicant had felony charges for sexual assault as a teenager.,
+25-00050.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has a history of mental health issues affecting reliability.,
+25-00052.h1,Psychological Conditions,Condition affecting judgment or reliability,Applicant has unresolved mental health issues impacting judgment.,
+25-00060.h1,Financial,Chronic delinquent debt,"Applicant has 34 unresolved debts, indicating chronic financial issues.",
+25-00061.h1,Financial,Chronic delinquent debt,"Applicant has significant past-due debts totaling about $29,839.",
+25-00067.h1,Drugs,Use during clearance process,Applicant used marijuana while holding a security clearance.,
+25-00073.h1,Financial,Failure to file required financial disclosures,Applicant failed to file state and federal taxes on time.,
+25-00080.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling about $31,000.",
+25-00082.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling around $20,000.",
+25-00087.h1,Drugs,Failure to disclose use,Applicant falsified drug use on SF-86 and during interviews.,
+25-00088.h1,Drugs,Failure to disclose use,Applicant admitted to illegal drug use and omissions on e-QIP.,
+25-00137.h1,Drugs,Pattern of recurring use,Applicant has a long history of marijuana use from 2013 to 2024.,
+25-00139.h1,Drugs,Use of federally illegal substances despite state legality,Applicant admitted to illegal drug use despite state legality.,
+25-00147.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved delinquent debts post-bankruptcy.,
+25-00161.h1,Financial,Unpaid taxes,Applicant failed to file multiple years of tax returns.,
+25-00169.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling about $18,500.",
+25-00176.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent debts totaling over $61,000.",
+25-00182.h1,Financial,Chronic delinquent debt,"Applicant has 18 delinquent accounts totaling about $35,500.",
+25-00208.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved debts and unpaid taxes.,
+25-00227.h1,Financial,Chronic delinquent debt,Applicant has unresolved charged-off car loan and past delinquent accounts.,
+25-00231.h1,Financial,Chronic delinquent debt,"Applicant has 17 delinquent accounts totaling ~$33,000.",
+25-00241.h1,Financial,Chronic delinquent debt,"Applicant has multiple delinquent debts totaling over $52,000.",
+25-00242.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved debts totaling over $18,000.",
+25-00252.h1,Financial,Chronic delinquent debt,"Applicant has three unpaid debts totaling about $34,000.",
+25-00257.h1,Financial,Chronic delinquent debt,Applicant has multiple unresolved delinquent debts.,
+25-00263.h1,Drugs,Use during clearance process,Applicant admitted to past marijuana use but ceased upon realizing clearance implications.,
+25-00281.h1,Financial,Failure to file required financial disclosures,Applicant failed to file federal and state tax returns for multiple years.,
+25-00284.h1,Foreign Influence,Financial ties to foreign persons or entities,Applicant has family in India and financial support obligations.,
+25-00336.h1,Financial,Chronic delinquent debt,"Applicant has multiple unresolved delinquent accounts totaling over $123,000.",
+25-00339.h1,Financial,Failure to file required financial disclosures,Applicant failed to timely file federal and state tax returns.,
+25-00376.h1,Financial,Chronic delinquent debt,Applicant has significant unpaid debts and failed to mitigate concerns.,
+25-00397.h1,Drugs,Use after submitting SF-86,"Applicant used marijuana after declaring he wouldn't, while holding a clearance.",
+25-00492.h1,Financial,Chronic delinquent debt,"Applicant has multiple debts and judgments, indicating financial instability.",
+25-00590.h1,Drugs,Pattern of recurring use,Applicant has significant history of illegal substance use.,
+25-00704.h1,Alcohol Consumption,Pattern of binge drinking,Applicant has a history of excessive alcohol use and treatment.,

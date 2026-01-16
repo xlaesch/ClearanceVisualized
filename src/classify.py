@@ -137,10 +137,10 @@ def build_prompt(case_text):
     system = (
         "You are a classification assistant for security clearance cases.\n"
         "Return ONLY a JSON object with these keys:\n"
-        "category_level_1, category_level_2, confidence, notes\n"
+        "category_level_1, category_level_2, insights, notes\n"
         "- category_level_1 must be one of the Level 1 keys in the taxonomy.\n"
         "- category_level_2 must be one of the Level 2 values for that Level 1.\n"
-        "- confidence must be a number between 0 and 1.\n"
+        "- insights must be a one-sentence insight/advice for current applicants based on this decision.\n"
         "- notes must be a brief ASCII-only summary (<=120 chars) or empty.\n"
         "No additional keys. No markdown."
     )
@@ -290,7 +290,7 @@ def parse_llm_output(content):
     return {
         "category_level_1": parsed.get("category_level_1", "").strip(),
         "category_level_2": parsed.get("category_level_2", "").strip(),
-        "confidence": parsed.get("confidence", ""),
+        "insights": parsed.get("insights", "").strip(),
         "notes": parsed.get("notes", "").strip(),
     }
 
@@ -441,7 +441,7 @@ def run(argv=None):
         "url",
         "category_level_1",
         "category_level_2",
-        "confidence",
+        "insights",
         "notes",
     ]
 
@@ -510,7 +510,7 @@ def run(argv=None):
                         "url": manifest.get(base_case_id, ""),
                         "category_level_1": "",
                         "category_level_2": "",
-                        "confidence": "",
+                        "insights": "",
                         "notes": f"load_error: {exc}",
                     }
                 )
@@ -532,7 +532,7 @@ def run(argv=None):
                         "case_id": case_id,
                         "category_level_1": "",
                         "category_level_2": "",
-                        "confidence": "",
+                        "insights": "",
                         "notes": "; ".join(notes),
                     }
                 )
@@ -559,7 +559,7 @@ def run(argv=None):
                         "url": manifest.get(base_case_id, ""),
                         "category_level_1": "",
                         "category_level_2": "",
-                        "confidence": "",
+                        "insights": "",
                         "notes": f"llm_http_error: {exc.code}",
                     }
                 )
@@ -572,7 +572,7 @@ def run(argv=None):
                         "url": manifest.get(base_case_id, ""),
                         "category_level_1": "",
                         "category_level_2": "",
-                        "confidence": "",
+                        "insights": "",
                         "notes": f"llm_error: {exc}",
                     }
                 )
@@ -585,14 +585,7 @@ def run(argv=None):
             if label_note:
                 notes.append(label_note)
 
-            confidence = normalize_confidence(parsed["confidence"])
-            if confidence is None:
-                notes.append("invalid_confidence")
-                confidence_value = ""
-            else:
-                confidence_value = f"{confidence:.2f}"
-                if confidence < args.confidence_threshold:
-                    notes.append("needs_review")
+            insights = parsed.get("insights", "")
 
             if parsed["notes"]:
                 notes.insert(0, parsed["notes"])
@@ -603,7 +596,7 @@ def run(argv=None):
                     "url": manifest.get(base_case_id, ""),
                     "category_level_1": level1,
                     "category_level_2": level2,
-                    "confidence": confidence_value,
+                    "insights": insights,
                     "notes": "; ".join(notes),
                 }
             )

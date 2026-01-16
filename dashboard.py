@@ -52,7 +52,7 @@ def load_data(file_path, last_updated):
         return pd.DataFrame()
     
     # Ensure columns exist
-    required_cols = ["category_level_1", "category_level_2", "case_id", "notes", "confidence"]
+    required_cols = ["category_level_1", "category_level_2", "case_id", "notes", "insights"]
     for col in required_cols:
         if col not in df.columns:
             df[col] = "" # Fill missing columns if any
@@ -61,6 +61,7 @@ def load_data(file_path, last_updated):
     df["category_level_1"] = df["category_level_1"].fillna("Unknown")
     df["category_level_2"] = df["category_level_2"].fillna("Unknown")
     df["notes"] = df["notes"].fillna("")
+    df["insights"] = df["insights"].fillna("")
     return df
 
 if os.path.exists(DATA_FILE):
@@ -126,13 +127,13 @@ st.markdown(f"**Showing {len(filtered_df)} cases**")
 
 # Display as interactive table
 st.dataframe(
-    filtered_df[["case_id", "category_level_1", "category_level_2", "confidence", "notes"]],
+    filtered_df[["case_id", "category_level_1", "category_level_2", "insights", "notes"]],
     use_container_width=True,
     column_config={
         "case_id": "Case ID",
         "category_level_1": "Category",
         "category_level_2": "Sub-Category",
-        "confidence": st.column_config.NumberColumn("Confidence", format="%.2f"),
+        "insights": "Insights",
         "notes": "Notes",
     },
     hide_index=True

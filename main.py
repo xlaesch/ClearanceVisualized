@@ -103,13 +103,23 @@ def select_year():
     parser = YearParser()
     parser.feed(html)
     
-    # Deduplicate
+    # Deduplicate with priority for ISCR links
     seen_years = set()
     unique_years = []
     
-    raw_unique = sorted(list(set(parser.years)), key=lambda x: x[0], reverse=True)
+    # List of (year, link, priority)
+    candidates = []
+    for y, link in set(parser.years):
+        priority = 0
+        if "ISCR" in link or "iscr" in link.lower():
+            priority = 1
+        candidates.append((y, link, priority))
     
-    for y, link in raw_unique:
+    # Sort by Year DESC, then Priority DESC
+    # reverse=True means larger values come first.
+    candidates.sort(key=lambda x: (x[0], x[2]), reverse=True)
+    
+    for y, link, prio in candidates:
         if y not in seen_years:
             unique_years.append((y, link))
             seen_years.add(y)

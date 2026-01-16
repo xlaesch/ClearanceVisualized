@@ -137,11 +137,12 @@ def build_prompt(case_text):
     system = (
         "You are a classification assistant for security clearance cases.\n"
         "Return ONLY a JSON object with these keys:\n"
-        "category_level_1, category_level_2, insights, notes\n"
+        "category_level_1, category_level_2, insights, notes, status\n"
         "- category_level_1 must be one of the Level 1 keys in the taxonomy.\n"
         "- category_level_2 must be one of the Level 2 values for that Level 1.\n"
         "- insights must be a one-sentence insight/advice for current applicants based on this decision.\n"
         "- notes must be a brief ASCII-only summary (<=120 chars) or empty.\n"
+        "- status must be either 'Passed' or 'Failed' based on the decision.\n"
         "No additional keys. No markdown."
     )
     user = (
@@ -292,6 +293,7 @@ def parse_llm_output(content):
         "category_level_2": parsed.get("category_level_2", "").strip(),
         "insights": parsed.get("insights", "").strip(),
         "notes": parsed.get("notes", "").strip(),
+        "status": parsed.get("status", "").strip(),
     }
 
 
@@ -394,6 +396,11 @@ def run(argv=None):
         help="Process inputs and show how many cases would be classified",
     )
     parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Resume from existing CSV output, skipping already classified cases",
+    )
+    parser.add_argument(
         "--manifest",
         default="pdfs/manifest.json",
         help="Path to manifest JSON mapping filenames to URLs",
@@ -443,6 +450,7 @@ def run(argv=None):
         "category_level_2",
         "insights",
         "notes",
+        "status",
     ]
 
     # Load manifest if available
@@ -512,6 +520,7 @@ def run(argv=None):
                         "category_level_2": "",
                         "insights": "",
                         "notes": f"load_error: {exc}",
+                        "status": "",
                     }
                 )
                 processed += 1
@@ -534,6 +543,7 @@ def run(argv=None):
                         "category_level_2": "",
                         "insights": "",
                         "notes": "; ".join(notes),
+                        "status": "",
                     }
                 )
                 processed += 1
@@ -561,6 +571,7 @@ def run(argv=None):
                         "category_level_2": "",
                         "insights": "",
                         "notes": f"llm_http_error: {exc.code}",
+                        "status": "",
                     }
                 )
                 processed += 1
@@ -574,6 +585,7 @@ def run(argv=None):
                         "category_level_2": "",
                         "insights": "",
                         "notes": f"llm_error: {exc}",
+                        "status": "",
                     }
                 )
                 processed += 1
@@ -586,6 +598,7 @@ def run(argv=None):
                 notes.append(label_note)
 
             insights = parsed.get("insights", "")
+            status = parsed.get("status", "")
 
             if parsed["notes"]:
                 notes.insert(0, parsed["notes"])
@@ -598,6 +611,7 @@ def run(argv=None):
                     "category_level_2": level2,
                     "insights": insights,
                     "notes": "; ".join(notes),
+                    "status": status,
                 }
             )
             processed += 1

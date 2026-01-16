@@ -1,3 +1,5 @@
 .env
 pdfs
 __pycache__
+.venv
+data/

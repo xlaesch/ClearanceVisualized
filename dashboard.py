@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 import os
 
+import re
 import glob
 
 # Set page configuration
@@ -16,9 +17,29 @@ if not csv_files:
     st.error("No classification files found (classified_cases*.csv). Please run main.py first.")
     st.stop()
 
+# Helper to format display names
+def get_file_label(filename):
+    match = re.search(r"classified_cases_(\d{4})\.csv", filename)
+    if match:
+        return f"Year {match.group(1)}"
+    if filename == "classified_cases.csv":
+        return "Legacy / Mixed Data"
+    return filename
+
+# Create a mapping of Label -> Filename
+file_options = {get_file_label(f): f for f in csv_files}
+
+# Sort options nicely (files with Years first, organized)
+def sort_key(label):
+    if label.startswith("Year"):
+        return (0, label) 
+    return (1, label)
+
+sorted_labels = sorted(file_options.keys(), key=sort_key)
+
 # Let user select file if multiple
-selected_file = st.sidebar.selectbox("Select Dataset", csv_files, index=0)
-DATA_FILE = selected_file
+selected_label = st.sidebar.selectbox("Select Dataset", sorted_labels, index=0)
+DATA_FILE = file_options[selected_label]
 
 @st.cache_data
 def load_data(file_path, last_updated):
@@ -57,7 +78,7 @@ if df.empty:
     st.stop()
 
 # --- Visualization Section ---
-st.subheader("Taxonomy Distribution (Sunburst)")
+st.subheader("Sunburst Chart")
 st.markdown("Click on a **Category Level 1** slice to expand and see **Category Level 2** breakdown. Click the center to go back up.")
 
 # Prepare data for Sunburst

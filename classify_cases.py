@@ -438,7 +438,6 @@ def main():
 
     fieldnames = [
         "case_id",
-        "raw_text",
         "category_level_1",
         "category_level_2",
         "confidence",
@@ -495,7 +494,6 @@ def main():
                 writer.writerow(
                     {
                         "case_id": case_id,
-                        "raw_text": "",
                         "category_level_1": "",
                         "category_level_2": "",
                         "confidence": "",
@@ -517,7 +515,6 @@ def main():
                 writer.writerow(
                     {
                         "case_id": case_id,
-                        "raw_text": raw_text,
                         "category_level_1": "",
                         "category_level_2": "",
                         "confidence": "",
@@ -545,7 +542,6 @@ def main():
                 writer.writerow(
                     {
                         "case_id": case_id,
-                        "raw_text": raw_text,
                         "category_level_1": "",
                         "category_level_2": "",
                         "confidence": "",
@@ -558,7 +554,6 @@ def main():
                 writer.writerow(
                     {
                         "case_id": case_id,
-                        "raw_text": raw_text,
                         "category_level_1": "",
                         "category_level_2": "",
                         "confidence": "",
@@ -589,7 +584,6 @@ def main():
             writer.writerow(
                 {
                     "case_id": case_id,
-                    "raw_text": raw_text,
                     "category_level_1": level1,
                     "category_level_2": level2,
                     "confidence": confidence_value,

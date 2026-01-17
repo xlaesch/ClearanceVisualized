@@ -142,7 +142,7 @@ def build_prompt(case_text):
         "- category_level_2 must be one of the Level 2 values for that Level 1.\n"
         "- insights must be a one-sentence insight/advice for current applicants based on this decision.\n"
         "- notes must be a brief ASCII-only summary (<=120 chars) or empty.\n"
-        "- status must be either 'Passed' or 'Failed' based on the decision.\n"
+        "- status must be either 'Granted' or 'Denied' based on the decision. Note that this decision is stated in the Conclusion section. \n"
         "No additional keys. No markdown."
     )
     user = (
